@@ -7,10 +7,10 @@ Este repositório contém a documentação, esquemáticos e o software de contro
 ## 🧠 Arquitetura de Hardware
 
 A rede de distribuição de energia e controle foi rigorosamente dimensionada para garantir integridade de sinal:
-* **Conversão de Energia Principal:** Utiliza o conversor buck síncrono AP63205WU-7, reduzindo a tensão de entrada para um barramento regulado de 5V com capacidade de 2A[cite: 4, 28].
-* **Regulação Secundária (LDO):** Um AP2112K-3.3TRG1 fornece uma rede isolada de 3,3V dedicada aos circuitos digitais e analógicos sensíveis[cite: 68].
-* **Conversão Digital-Analógica (DAC):** Implementada através do AD5391 (matriz multicanal), orquestrando a geração precisa dos sinais a partir da rede filtrada de 3,3V[cite: 30, 99].
-* **Condicionamento Analógico:** Matriz em cascata utilizando 4 CIs TLV2464 (totalizando 16 canais de amplificadores operacionais *rail-to-rail*), alimentados diretamente pelo barramento robusto de 5V[cite: 13, 29].
+* **Conversão de Energia Principal:** Utiliza o conversor buck síncrono AP63205WU-7, reduzindo a tensão de entrada para um barramento regulado de 5V com capacidade de 2A.
+* **Regulação Secundária (LDO):** Um AP2112K-3.3TRG1 fornece uma rede isolada de 3,3V dedicada aos circuitos digitais e analógicos sensíveis.
+* **Conversão Digital-Analógica (DAC):** Implementada através do AD5391 (matriz multicanal), orquestrando a geração precisa dos sinais a partir da rede filtrada de 3,3V.
+* **Condicionamento Analógico:** Matriz em cascata utilizando 4 CIs TLV2464 (totalizando 16 canais de amplificadores operacionais *rail-to-rail*), alimentados diretamente pelo barramento robusto de 5V.
 
 ## 💻 Software de Controle
 
@@ -25,5 +25,4 @@ Localizado na pasta `/src`, o script Python (`photonic_controller.py`) estabelec
 * `/hardware`: Arquivos fonte da PCB.
 * `/src`: Driver e interface de linha de comando em Python.
 
-## 👨‍💻 Autor
-**Carlos Renan** - Engenheiro Eletricista
+
