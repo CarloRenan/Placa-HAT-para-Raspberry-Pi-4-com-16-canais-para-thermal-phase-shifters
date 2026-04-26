@@ -1,0 +1,1 @@
+# Placa-HAT-para-Raspberry-Pi-4-com-16-canais-para-thermal-phase-shifters
