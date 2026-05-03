@@ -2,9 +2,9 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=C:\Users\Renan\Downloads\Projeto\teste\.PDF
+OutputFilePath2=C:\Users\Renan\Downloads\Projeto\Versão nova\.PDF
 ReleaseManaged2=0
-OutputBasePath2=C:\Users\Renan\Downloads\Projeto\teste\
+OutputBasePath2=C:\Users\Renan\Downloads\Projeto\Versão nova\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -81,7 +81,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\Renan\Downloads\Projeto\teste\.PDF
+RelativeOutputPath2=C:\Users\Renan\Downloads\Projeto\Versão nova\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
