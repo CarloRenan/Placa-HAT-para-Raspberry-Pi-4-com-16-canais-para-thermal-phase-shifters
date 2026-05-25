@@ -50,7 +50,126 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=D:\RaspHatAltium\RaspberryHatBoard.PcbDoc
+DocumentPath=..\..\..\..\Renan\Downloads\PCB_Project_Source_IoT-main\PCB_Project_Source_IoT-main\Libraries\Project Outputs for Integrated_Library\Integrated_Library1\Schlib_Source_IoT.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IMXSLABM
+
+[Document2]
+DocumentPath=..\..\..\..\Renan\Downloads\Projeto\Libraries\Libraries\Schlib_Source_IoT.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VBYAURBX
+
+[Document3]
+DocumentPath=..\..\..\..\Renan\Downloads\Projeto\PCEIOT - V1.1.0\Libraries\PCEIOT.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DROQFQHZ
+
+[Document4]
+DocumentPath=..\..\..\..\Renan\Downloads\PCB_Project_Source_IoT-main\PCB_Project_Source_IoT-main\Libraries\Project Outputs for Integrated_Library\Integrated_Library1\PcbLib_Source_IoT.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HXOJNXPP
+
+[Document5]
+DocumentPath=..\..\..\..\Renan\Downloads\PCB_Project_Source_IoT-main\PCB_Project_Source_IoT-main\Libraries\PcbLib_Symbol.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WNJBTXKG
+
+[Document6]
+DocumentPath=..\..\..\..\Renan\Downloads\Projeto\Libraries\Libraries\PcbLib_Source_IoT.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CRNOUDJA
+
+[Document7]
+DocumentPath=..\..\..\..\Renan\Downloads\Projeto\PCEIOT - V1.1.0\Libraries\PCB-PCEIOT.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AUUEOYWJ
+
+[Document8]
+DocumentPath=D:\RaspHatAltium\RaspberryHatBoard1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -66,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ERQJCQKM
 
-[Document2]
+[Document9]
 DocumentPath=Main.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TKXLHALQ
 
-[Document3]
+[Document10]
 DocumentPath=Amp_op1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XSTCAMRP
 
-[Document4]
+[Document11]
 DocumentPath=fonte.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KQFGGRFT
 
-[Document5]
+[Document12]
 DocumentPath=Hierarquia.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EHERKIMW
 
-[Document6]
+[Document13]
 DocumentPath=Amp_op2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UFBVLWEB
 
-[Document7]
+[Document14]
 DocumentPath=Amp_op3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JEZAFOGD
 
-[Document8]
+[Document15]
 DocumentPath=Amp_op4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GUAYKJFO
 
-[Document9]
+[Document16]
 DocumentPath=Projeto_DAC_Raspberry.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document17]
 DocumentPath=Projeto_DAC_Raspberry.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document18]
 DocumentPath=Capacitores.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1

@@ -2,9 +2,9 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=C:\Users\Renan\Downloads\Projeto\Versão nova\.PDF
+OutputFilePath2=C:\Users\Public\Documents\Altium\Projeto_DAC_Raspberry\.PDF
 ReleaseManaged2=0
-OutputBasePath2=C:\Users\Renan\Downloads\Projeto\Versão nova\
+OutputBasePath2=C:\Users\Public\Documents\Altium\Projeto_DAC_Raspberry\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -81,7 +81,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\Renan\Downloads\Projeto\Versão nova\.PDF
+RelativeOutputPath2=C:\Users\Public\Documents\Altium\Projeto_DAC_Raspberry\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
