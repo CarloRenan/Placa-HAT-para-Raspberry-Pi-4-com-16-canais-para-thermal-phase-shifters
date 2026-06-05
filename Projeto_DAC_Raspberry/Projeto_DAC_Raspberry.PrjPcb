@@ -389,6 +389,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BXQZXQNK
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Projeto_DAC_Raspberry\Design Rule Check - RaspberryHatBoard1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
