@@ -21,8 +21,8 @@ Localizado na pasta `/src`, o script Python (`photonic_controller.py`) estabelec
 
 ## 📂 Estrutura do Repositório
 
+* `/Projeto_DAC_Raspberry`: Arquivos fonte da PCB.
 * `/docs`: Relatórios de viabilidade eletrotérmica e esquemáticos da placa.
-* `/hardware`: Arquivos fonte da PCB.
 * `/src`: Driver e interface de linha de comando em Python.
 
 
