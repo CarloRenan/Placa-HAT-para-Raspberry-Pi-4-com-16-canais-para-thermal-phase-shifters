@@ -1,0 +1,2402 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+@2 .no_pop
+@3 .comp_ignore
+@4 .comp_variant_list
+@5 .placement_layer
+
+#
+#Component attribute text strings
+#
+&0 bottom_layer
+
+# CMP 0
+CMP 17 32.4700011 52.73000122 180 N P1 Header ;0=2,1=0.0000,5=0
+PRP Contact_Resistance '20mO'
+PRP Current_Rating '3A'
+PRP Gender 'Female'
+PRP Lead_Pitch '2.54mm'
+PRP Number_of_Pins '40'
+PRP Operating_Supply_Voltage '250V'
+PRP Orientation 'Vertical'
+TOP 0 8.3400011 51.46000122 0 N 0 43 1
+TOP 1 8.3400011 54.00000122 0 N 0 31 2
+TOP 2 10.8800011 51.46000122 0 N 0 44 3
+TOP 3 10.8800011 54.00000122 0 N 0 26 4
+TOP 4 13.4200011 51.46000122 0 N 0 39 5
+TOP 5 13.4200011 54.00000122 0 N 133 183 6
+TOP 6 15.9600011 51.46000122 0 N 0 40 7
+TOP 7 15.9600011 54.00000122 0 N 0 27 8
+TOP 8 18.5000011 51.46000122 0 N 0 41 9
+TOP 9 18.5000011 54.00000122 0 N 0 28 10
+TOP 10 21.0400011 51.46000122 0 N 0 45 11
+TOP 11 21.0400011 54.00000122 0 N 0 32 12
+TOP 12 23.5800011 51.46000122 0 N 0 49 13
+TOP 13 23.5800011 54.00000122 0 N 133 153 14
+TOP 14 26.1200011 51.46000122 0 N 91 1 15
+TOP 15 26.1200011 54.00000122 0 N 90 1 16
+TOP 16 28.6600011 51.46000122 0 N 0 50 17
+TOP 17 28.6600011 54.00000122 0 N 87 1 18
+TOP 18 31.2000011 51.46000122 0 N 89 1 19
+TOP 19 31.2000011 54.00000122 0 N 133 93 20
+TOP 20 33.7400011 51.46000122 0 N 85 1 21
+TOP 21 33.7400011 54.00000122 0 N 88 1 22
+TOP 22 36.2800011 51.46000122 0 N 86 1 23
+TOP 23 36.2800011 54.00000122 0 N 1 1 24
+TOP 24 38.8200011 51.46000122 0 N 133 125 25
+TOP 25 38.8200011 54.00000122 0 N 0 36 26
+TOP 26 41.3600011 51.46000122 0 N 0 51 27
+TOP 27 41.3600011 54.00000122 0 N 0 37 28
+TOP 28 43.9000011 51.46000122 0 N 0 46 29
+TOP 29 43.9000011 54.00000122 0 N 133 151 30
+TOP 30 46.4400011 51.46000122 0 N 0 47 31
+TOP 31 46.4400011 54.00000122 0 N 0 38 32
+TOP 32 48.9800011 51.46000122 0 N 0 48 33
+TOP 33 48.9800011 54.00000122 0 N 133 200 34
+TOP 34 51.5200011 51.46000122 0 N 0 29 35
+TOP 35 51.5200011 54.00000122 0 N 0 33 36
+TOP 36 54.0600011 51.46000122 0 N 0 30 37
+TOP 37 54.0600011 54.00000122 0 N 0 34 38
+TOP 38 56.6000011 51.46000122 0 N 133 159 39
+TOP 39 56.6000011 54.00000122 0 N 0 35 40
+#
+# CMP 1
+CMP 10 11.00000086 39.49999974 90 N U23 INA180A2IDBVR ;0=1,1=1.7500,5=0
+PRP -3db_Bandwidth '350kHz'
+PRP Case/Package 'SOT-23-5'
+PRP Input_Bias_Current '100nA'
+PRP Input_Offset_Voltage_(Vos) '100uV'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Circuits '1'
+PRP Operating_Supply_Current '260uA'
+PRP Packaging 'Tape and Reel'
+PRP RoHS_Compliant 'Yes'
+PRP Slew_Rate '2V/µs'
+TOP 0 10.05000022 40.79999968 90 N 18 1 1
+TOP 1 11.00000086 40.79999968 90 N 133 105 2
+TOP 2 11.9500015 40.79999968 90 N 93 1 3
+TOP 3 11.9500015 38.1999998 90 N 2 2 4
+TOP 4 10.05000022 38.1999998 90 N 128 21 5
+#
+# CMP 2
+CMP 10 24.24999976 8.19999884 90 N U22 INA180A2IDBVR ;0=1,1=1.7500,5=0
+PRP -3db_Bandwidth '350kHz'
+PRP Case/Package 'SOT-23-5'
+PRP Input_Bias_Current '100nA'
+PRP Input_Offset_Voltage_(Vos) '100uV'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Circuits '1'
+PRP Operating_Supply_Current '260uA'
+PRP Packaging 'Tape and Reel'
+PRP RoHS_Compliant 'Yes'
+PRP Slew_Rate '2V/µs'
+TOP 0 23.29999912 9.49999878 90 N 19 1 1
+TOP 1 24.24999976 9.49999878 90 N 133 201 2
+TOP 2 25.2000004 9.49999878 90 N 95 1 3
+TOP 3 25.2000004 6.8999989 90 N 3 0 4
+TOP 4 23.29999912 6.8999989 90 N 128 28 5
+#
+# CMP 3
+CMP 10 24.44999936 16.69999962 90 N U21 INA180A2IDBVR ;0=1,1=1.7500,5=0
+PRP -3db_Bandwidth '350kHz'
+PRP Case/Package 'SOT-23-5'
+PRP Input_Bias_Current '100nA'
+PRP Input_Offset_Voltage_(Vos) '100uV'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Circuits '1'
+PRP Operating_Supply_Current '260uA'
+PRP Packaging 'Tape and Reel'
+PRP RoHS_Compliant 'Yes'
+PRP Slew_Rate '2V/µs'
+TOP 0 23.49999872 17.99999956 90 N 20 1 1
+TOP 1 24.44999936 17.99999956 90 N 133 170 2
+TOP 2 25.4 17.99999956 90 N 97 0 3
+TOP 3 25.4 15.39999968 90 N 4 1 4
+TOP 4 23.49999872 15.39999968 90 N 128 27 5
+#
+# CMP 4
+CMP 10 28.24999938 25.2000004 90 N U20 INA180A2IDBVR ;0=1,1=1.7500,5=0
+PRP -3db_Bandwidth '350kHz'
+PRP Case/Package 'SOT-23-5'
+PRP Input_Bias_Current '100nA'
+PRP Input_Offset_Voltage_(Vos) '100uV'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Circuits '1'
+PRP Operating_Supply_Current '260uA'
+PRP Packaging 'Tape and Reel'
+PRP RoHS_Compliant 'Yes'
+PRP Slew_Rate '2V/µs'
+TOP 0 27.29999874 26.50000034 90 N 24 1 1
+TOP 1 28.24999938 26.50000034 90 N 133 92 2
+TOP 2 29.20000002 26.50000034 90 N 99 2 3
+TOP 3 29.20000002 23.90000046 90 N 100 2 4
+TOP 4 27.29999874 23.90000046 90 N 128 19 5
+#
+# CMP 5
+CMP 10 28.24999938 33.75000108 90 N U18 INA180A2IDBVR ;0=1,1=1.7500,5=0
+PRP -3db_Bandwidth '350kHz'
+PRP Case/Package 'SOT-23-5'
+PRP Input_Bias_Current '100nA'
+PRP Input_Offset_Voltage_(Vos) '100uV'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Circuits '1'
+PRP Operating_Supply_Current '260uA'
+PRP Packaging 'Tape and Reel'
+PRP RoHS_Compliant 'Yes'
+PRP Slew_Rate '2V/µs'
+TOP 0 27.29999874 35.05000102 90 N 26 1 1
+TOP 1 28.24999938 35.05000102 90 N 133 140 2
+TOP 2 29.20000002 35.05000102 90 N 102 0 3
+TOP 3 29.20000002 32.45000114 90 N 5 0 4
+TOP 4 27.29999874 32.45000114 90 N 128 30 5
+#
+# CMP 6
+CMP 10 28.24999938 41.94999992 90 N U17 INA180A2IDBVR ;0=1,1=1.7500,5=0
+PRP -3db_Bandwidth '350kHz'
+PRP Case/Package 'SOT-23-5'
+PRP Input_Bias_Current '100nA'
+PRP Input_Offset_Voltage_(Vos) '100uV'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Circuits '1'
+PRP Operating_Supply_Current '260uA'
+PRP Packaging 'Tape and Reel'
+PRP RoHS_Compliant 'Yes'
+PRP Slew_Rate '2V/µs'
+TOP 0 27.29999874 43.24999986 90 N 27 1 1
+TOP 1 28.24999938 43.24999986 90 N 133 120 2
+TOP 2 29.20000002 43.24999986 90 N 104 0 3
+TOP 3 29.20000002 40.64999998 90 N 6 2 4
+TOP 4 27.29999874 40.64999998 90 N 128 29 5
+#
+# CMP 7
+CMP 10 41.24999878 7.99999924 90 N U16 INA180A2IDBVR ;0=1,1=1.7500,5=0
+PRP -3db_Bandwidth '350kHz'
+PRP Case/Package 'SOT-23-5'
+PRP Input_Bias_Current '100nA'
+PRP Input_Offset_Voltage_(Vos) '100uV'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Circuits '1'
+PRP Operating_Supply_Current '260uA'
+PRP Packaging 'Tape and Reel'
+PRP RoHS_Compliant 'Yes'
+PRP Slew_Rate '2V/µs'
+TOP 0 40.29999814 9.29999918 90 N 28 1 1
+TOP 1 41.24999878 9.29999918 90 N 133 204 2
+TOP 2 42.19999942 9.29999918 90 N 106 1 3
+TOP 3 42.19999942 6.6999993 90 N 7 0 4
+TOP 4 40.29999814 6.6999993 90 N 128 6 5
+#
+# CMP 8
+CMP 10 41.24999878 16.45000012 90 N U15 INA180A2IDBVR ;0=1,1=1.7500,5=0
+PRP -3db_Bandwidth '350kHz'
+PRP Case/Package 'SOT-23-5'
+PRP Input_Bias_Current '100nA'
+PRP Input_Offset_Voltage_(Vos) '100uV'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Circuits '1'
+PRP Operating_Supply_Current '260uA'
+PRP Packaging 'Tape and Reel'
+PRP RoHS_Compliant 'Yes'
+PRP Slew_Rate '2V/µs'
+TOP 0 40.29999814 17.75000006 90 N 32 1 1
+TOP 1 41.24999878 17.75000006 90 N 133 199 2
+TOP 2 42.19999942 17.75000006 90 N 108 0 3
+TOP 3 42.19999942 15.15000018 90 N 109 2 4
+TOP 4 40.29999814 15.15000018 90 N 128 9 5
+#
+# CMP 9
+CMP 10 45.45000054 25.0500007 90 N U13 INA180A2IDBVR ;0=1,1=1.7500,5=0
+PRP -3db_Bandwidth '350kHz'
+PRP Case/Package 'SOT-23-5'
+PRP Input_Bias_Current '100nA'
+PRP Input_Offset_Voltage_(Vos) '100uV'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Circuits '1'
+PRP Operating_Supply_Current '260uA'
+PRP Packaging 'Tape and Reel'
+PRP RoHS_Compliant 'Yes'
+PRP Slew_Rate '2V/µs'
+TOP 0 44.4999999 26.35000064 90 N 34 1 1
+TOP 1 45.45000054 26.35000064 90 N 133 108 2
+TOP 2 46.40000118 26.35000064 90 N 111 0 3
+TOP 3 46.40000118 23.75000076 90 N 8 0 4
+TOP 4 44.4999999 23.75000076 90 N 128 5 5
+#
+# CMP 10
+CMP 10 45.50000044 33.75000108 90 N U12 INA180A2IDBVR ;0=1,1=1.7500,5=0
+PRP -3db_Bandwidth '350kHz'
+PRP Case/Package 'SOT-23-5'
+PRP Input_Bias_Current '100nA'
+PRP Input_Offset_Voltage_(Vos) '100uV'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Circuits '1'
+PRP Operating_Supply_Current '260uA'
+PRP Packaging 'Tape and Reel'
+PRP RoHS_Compliant 'Yes'
+PRP Slew_Rate '2V/µs'
+TOP 0 44.5499998 35.05000102 90 N 35 1 1
+TOP 1 45.50000044 35.05000102 90 N 133 100 2
+TOP 2 46.45000108 35.05000102 90 N 113 1 3
+TOP 3 46.45000108 32.45000114 90 N 9 0 4
+TOP 4 44.5499998 32.45000114 90 N 128 16 5
+#
+# CMP 11
+CMP 10 62.526672 16.89057328 90 N U11 INA180A2IDBVR ;0=1,1=1.7500,5=0
+PRP -3db_Bandwidth '350kHz'
+PRP Case/Package 'SOT-23-5'
+PRP Input_Bias_Current '100nA'
+PRP Input_Offset_Voltage_(Vos) '100uV'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Circuits '1'
+PRP Operating_Supply_Current '260uA'
+PRP Packaging 'Tape and Reel'
+PRP RoHS_Compliant 'Yes'
+PRP Slew_Rate '2V/µs'
+TOP 0 61.57667136 18.19057322 90 N 42 0 1
+TOP 1 62.526672 18.19057322 90 N 133 131 2
+TOP 2 63.47667264 18.19057322 90 N 120 3 3
+TOP 3 63.47667264 15.59057334 90 N 11 0 4
+TOP 4 61.57667136 15.59057334 90 N 128 10 5
+#
+# CMP 12
+CMP 10 62.29999986 25.3000002 90 N U10 INA180A2IDBVR ;0=1,1=1.7500,5=0
+PRP -3db_Bandwidth '350kHz'
+PRP Case/Package 'SOT-23-5'
+PRP Input_Bias_Current '100nA'
+PRP Input_Offset_Voltage_(Vos) '100uV'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Circuits '1'
+PRP Operating_Supply_Current '260uA'
+PRP Packaging 'Tape and Reel'
+PRP RoHS_Compliant 'Yes'
+PRP Slew_Rate '2V/µs'
+TOP 0 61.34999922 26.60000014 90 N 43 1 1
+TOP 1 62.29999986 26.60000014 90 N 133 128 2
+TOP 2 63.2500005 26.60000014 90 N 122 0 3
+TOP 3 63.2500005 24.00000026 90 N 12 1 4
+TOP 4 61.34999922 24.00000026 90 N 128 4 5
+#
+# CMP 13
+CMP 10 62.24999996 33.49999904 90 N U9 INA180A2IDBVR ;0=1,1=1.7500,5=0
+PRP -3db_Bandwidth '350kHz'
+PRP Case/Package 'SOT-23-5'
+PRP Input_Bias_Current '100nA'
+PRP Input_Offset_Voltage_(Vos) '100uV'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Circuits '1'
+PRP Operating_Supply_Current '260uA'
+PRP Packaging 'Tape and Reel'
+PRP RoHS_Compliant 'Yes'
+PRP Slew_Rate '2V/µs'
+TOP 0 61.29999932 34.79999898 90 N 44 1 1
+TOP 1 62.24999996 34.79999898 90 N 133 115 2
+TOP 2 63.2000006 34.79999898 90 N 124 0 3
+TOP 3 63.2000006 32.1999991 90 N 13 2 4
+TOP 4 61.29999932 32.1999991 90 N 128 14 5
+#
+# CMP 14
+CMP 10 62.24999996 41.99999982 90 N U8 INA180A2IDBVR ;0=1,1=1.7500,5=0
+PRP -3db_Bandwidth '350kHz'
+PRP Case/Package 'SOT-23-5'
+PRP Input_Bias_Current '100nA'
+PRP Input_Offset_Voltage_(Vos) '100uV'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Circuits '1'
+PRP Operating_Supply_Current '260uA'
+PRP Packaging 'Tape and Reel'
+PRP RoHS_Compliant 'Yes'
+PRP Slew_Rate '2V/µs'
+TOP 0 61.29999932 43.29999976 90 N 48 0 1
+TOP 1 62.24999996 43.29999976 90 N 133 160 2
+TOP 2 63.2000006 43.29999976 90 N 126 2 3
+TOP 3 63.2000006 40.69999988 90 N 127 0 4
+TOP 4 61.29999932 40.69999988 90 N 128 13 5
+#
+# CMP 15
+CMP 10 45.50000044 41.99999982 90 N U5 INA180A2IDBVR ;0=1,1=1.7500,5=0
+PRP -3db_Bandwidth '350kHz'
+PRP Case/Package 'SOT-23-5'
+PRP Input_Bias_Current '100nA'
+PRP Input_Offset_Voltage_(Vos) '100uV'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Circuits '1'
+PRP Operating_Supply_Current '260uA'
+PRP Packaging 'Tape and Reel'
+PRP RoHS_Compliant 'Yes'
+PRP Slew_Rate '2V/µs'
+TOP 0 44.5499998 43.29999976 90 N 36 1 1
+TOP 1 45.50000044 43.29999976 90 N 133 124 2
+TOP 2 46.45000108 43.29999976 90 N 115 0 3
+TOP 3 46.45000108 40.69999988 90 N 10 2 4
+TOP 4 44.5499998 40.69999988 90 N 128 11 5
+#
+# CMP 16
+CMP 10 62.49999946 9.44999888 90 N U4 INA180A2IDBVR ;0=1,1=1.7500,5=0
+PRP -3db_Bandwidth '350kHz'
+PRP Case/Package 'SOT-23-5'
+PRP Input_Bias_Current '100nA'
+PRP Input_Offset_Voltage_(Vos) '100uV'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Circuits '1'
+PRP Operating_Supply_Current '260uA'
+PRP Packaging 'Tape and Reel'
+PRP RoHS_Compliant 'Yes'
+PRP Slew_Rate '2V/µs'
+TOP 0 61.54999882 10.74999882 90 N 40 0 1
+TOP 1 62.49999946 10.74999882 90 N 133 129 2
+TOP 2 63.4500001 10.74999882 90 N 117 2 3
+TOP 3 63.4500001 8.14999894 90 N 118 0 4
+TOP 4 61.54999882 8.14999894 90 N 128 8 5
+#
+# CMP 17
+CMP 21 7.99999924 40.25000078 270 N R52 Resistor_1k_+/-1%_0603_100_mW ;0=1,1=0.6000,5=0
+PRP Case/Package '0603'
+PRP Component_Type 'Resistors'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'RC0603FR-131KL'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Pins '2'
+PRP Power '100mW'
+PRP RoHS_Compliant 'True'
+PRP Tolerance '1%'
+PRP Value '1k'
+PRP Voltage_Rating '50V'
+TOP 0 8.00000178 39.54999964 0 N 54 1 1
+TOP 1 8.00000178 40.95000446 0 N 18 0 2
+#
+# CMP 18
+CMP 21 21.70058652 8.40484222 270 N R51 Resistor_1k_+/-1%_0603_100_mW ;0=1,1=0.6000,5=0
+PRP Case/Package '0603'
+PRP Component_Type 'Resistors'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'RC0603FR-131KL'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Pins '2'
+PRP Power '100mW'
+PRP RoHS_Compliant 'True'
+PRP Tolerance '1%'
+PRP Value '1k'
+PRP Voltage_Rating '50V'
+TOP 0 21.70058906 7.70484108 0 N 55 0 1
+TOP 1 21.70058906 9.1048459 0 N 19 0 2
+#
+# CMP 19
+CMP 21 21.59999998 17.20000116 270 N R50 Resistor_1k_+/-1%_0603_100_mW ;0=1,1=0.6000,5=0
+PRP Case/Package '0603'
+PRP Component_Type 'Resistors'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'RC0603FR-131KL'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Pins '2'
+PRP Power '100mW'
+PRP RoHS_Compliant 'True'
+PRP Tolerance '1%'
+PRP Value '1k'
+PRP Voltage_Rating '50V'
+TOP 0 21.60000252 16.50000002 0 N 56 0 1
+TOP 1 21.60000252 17.90000484 0 N 20 0 2
+#
+# CMP 20
+CMP 21 25.4999998 25.4999998 270 N R46 Resistor_1k_+/-1%_0603_100_mW ;0=1,1=0.6000,5=0
+PRP Case/Package '0603'
+PRP Component_Type 'Resistors'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'RC0603FR-131KL'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Pins '2'
+PRP Power '100mW'
+PRP RoHS_Compliant 'True'
+PRP Tolerance '1%'
+PRP Value '1k'
+PRP Voltage_Rating '50V'
+TOP 0 25.50000234 24.79999866 0 N 58 0 1
+TOP 1 25.50000234 26.20000348 0 N 24 0 2
+#
+# CMP 21
+CMP 21 25.4999998 34.25000008 270 N R44 Resistor_1k_+/-1%_0603_100_mW ;0=1,1=0.6000,5=0
+PRP Case/Package '0603'
+PRP Component_Type 'Resistors'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'RC0603FR-131KL'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Pins '2'
+PRP Power '100mW'
+PRP RoHS_Compliant 'True'
+PRP Tolerance '1%'
+PRP Value '1k'
+PRP Voltage_Rating '50V'
+TOP 0 25.50000234 33.54999894 0 N 62 1 1
+TOP 1 25.50000234 34.95000376 0 N 26 0 2
+#
+# CMP 22
+CMP 21 25.4999998 42.75000086 270 N R43 Resistor_1k_+/-1%_0603_100_mW ;0=1,1=0.6000,5=0
+PRP Case/Package '0603'
+PRP Component_Type 'Resistors'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'RC0603FR-131KL'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Pins '2'
+PRP Power '100mW'
+PRP RoHS_Compliant 'True'
+PRP Tolerance '1%'
+PRP Value '1k'
+PRP Voltage_Rating '50V'
+TOP 0 25.50000234 42.04999972 0 N 63 1 1
+TOP 1 25.50000234 43.45000454 0 N 27 0 2
+#
+# CMP 23
+CMP 21 38.4999992 8.80000018 270 N R42 Resistor_1k_+/-1%_0603_100_mW ;0=1,1=0.6000,5=0
+PRP Case/Package '0603'
+PRP Component_Type 'Resistors'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'RC0603FR-131KL'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Pins '2'
+PRP Power '100mW'
+PRP RoHS_Compliant 'True'
+PRP Tolerance '1%'
+PRP Value '1k'
+PRP Voltage_Rating '50V'
+TOP 0 38.50000174 8.09999904 0 N 64 1 1
+TOP 1 38.50000174 9.50000386 0 N 28 0 2
+#
+# CMP 24
+CMP 21 38.1999998 17.40000076 270 N R38 Resistor_1k_+/-1%_0603_100_mW ;0=1,1=0.6000,5=0
+PRP Case/Package '0603'
+PRP Component_Type 'Resistors'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'RC0603FR-131KL'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Pins '2'
+PRP Power '100mW'
+PRP RoHS_Compliant 'True'
+PRP Tolerance '1%'
+PRP Value '1k'
+PRP Voltage_Rating '50V'
+TOP 0 38.20000234 16.69999962 0 N 66 2 1
+TOP 1 38.20000234 18.10000444 0 N 32 0 2
+#
+# CMP 25
+CMP 21 42.75000086 25.7499993 270 N R36 Resistor_1k_+/-1%_0603_100_mW ;0=1,1=0.6000,5=0
+PRP Case/Package '0603'
+PRP Component_Type 'Resistors'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'RC0603FR-131KL'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Pins '2'
+PRP Power '100mW'
+PRP RoHS_Compliant 'True'
+PRP Tolerance '1%'
+PRP Value '1k'
+PRP Voltage_Rating '50V'
+TOP 0 42.7500034 25.04999816 0 N 70 1 1
+TOP 1 42.7500034 26.45000298 0 N 34 0 2
+#
+# CMP 26
+CMP 21 42.75000086 34.49999958 270 N R35 Resistor_1k_+/-1%_0603_100_mW ;0=1,1=0.6000,5=0
+PRP Case/Package '0603'
+PRP Component_Type 'Resistors'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'RC0603FR-131KL'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Pins '2'
+PRP Power '100mW'
+PRP RoHS_Compliant 'True'
+PRP Tolerance '1%'
+PRP Value '1k'
+PRP Voltage_Rating '50V'
+TOP 0 42.7500034 33.79999844 0 N 71 0 1
+TOP 1 42.7500034 35.20000326 0 N 35 0 2
+#
+# CMP 27
+CMP 21 42.49999882 42.75000086 270 N R34 Resistor_1k_+/-1%_0603_100_mW ;0=1,1=0.6000,5=0
+PRP Case/Package '0603'
+PRP Component_Type 'Resistors'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'RC0603FR-131KL'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Pins '2'
+PRP Power '100mW'
+PRP RoHS_Compliant 'True'
+PRP Tolerance '1%'
+PRP Value '1k'
+PRP Voltage_Rating '50V'
+TOP 0 42.50000136 42.04999972 0 N 72 1 1
+TOP 1 42.50000136 43.45000454 0 N 36 0 2
+#
+# CMP 28
+CMP 21 59.74999988 9.49999878 270 N R30 Resistor_1k_+/-1%_0603_100_mW ;0=1,1=0.6000,5=0
+PRP Case/Package '0603'
+PRP Component_Type 'Resistors'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'RC0603FR-131KL'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Pins '2'
+PRP Power '100mW'
+PRP RoHS_Compliant 'True'
+PRP Tolerance '1%'
+PRP Value '1k'
+PRP Voltage_Rating '50V'
+TOP 0 59.75000242 8.79999764 0 N 74 0 1
+TOP 1 59.75000242 10.20000246 0 N 40 1 2
+#
+# CMP 29
+CMP 21 59.50000038 17.99999956 90 N R28 Resistor_1k_+/-1%_0603_100_mW ;0=1,1=0.6000,5=0
+PRP Case/Package '0603'
+PRP Component_Type 'Resistors'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'RC0603FR-071KL'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Pins '2'
+PRP Power '100mW'
+PRP RoHS_Compliant 'True'
+PRP Tolerance '1%'
+PRP Value '1k'
+PRP Voltage_Rating '50V'
+TOP 0 59.49999784 18.7000007 180 N 42 1 1
+TOP 1 59.49999784 17.29999588 180 N 14 1 2
+#
+# CMP 30
+CMP 21 59.20000098 25.7999992 90 N R27 Resistor_1k_+/-1%_0603_100_mW ;0=1,1=0.6000,5=0
+PRP Case/Package '0603'
+PRP Component_Type 'Resistors'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'RC0603FR-071KL'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Pins '2'
+PRP Power '100mW'
+PRP RoHS_Compliant 'True'
+PRP Tolerance '1%'
+PRP Value '1k'
+PRP Voltage_Rating '50V'
+TOP 0 59.19999844 26.50000034 180 N 43 0 1
+TOP 1 59.19999844 25.09999552 180 N 15 0 2
+#
+# CMP 31
+CMP 21 59.49999784 34.47979134 90 N R26 Resistor_1k_+/-1%_0603_100_mW ;0=1,1=0.6000,5=0
+PRP Case/Package '0603'
+PRP Component_Type 'Resistors'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'RC0603FR-071KL'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Pins '2'
+PRP Power '100mW'
+PRP RoHS_Compliant 'True'
+PRP Tolerance '1%'
+PRP Value '1k'
+PRP Voltage_Rating '50V'
+TOP 0 59.4999953 35.17979248 180 N 44 0 1
+TOP 1 59.4999953 33.77978766 180 N 16 2 2
+#
+# CMP 32
+CMP 21 59.25000342 42.79999822 270 N R22 Resistor_1k_+/-1%_0603_100_mW ;0=1,1=0.6000,5=0
+PRP Case/Package '0603'
+PRP Component_Type 'Resistors'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'RC0603FR-071KL'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'SM'
+PRP Pins '2'
+PRP Power '100mW'
+PRP RoHS_Compliant 'True'
+PRP Tolerance '1%'
+PRP Value '1k'
+PRP Voltage_Rating '50V'
+TOP 0 59.25000596 42.09999708 0 N 81 1 1
+TOP 1 59.25000596 43.5000019 0 N 48 1 2
+#
+# CMP 33
+CMP 22 9.6249998 46.24999894 0 N R16 SG73S1ETTP1R0J ;0=1,1=0.4000,5=0
+PRP Manufacturer 'KOA Speer'
+PRP Part_Number 'SG73S1ETTP1R0J'
+TOP 0 10.00000032 46.24999894 270 N 93 0 1
+TOP 1 9.24999928 46.24999894 270 N 2 0 2
+#
+# CMP 34
+CMP 22 22.75000022 12.5000004 0 N R15 SG73S1ETTP1R0J ;0=1,1=0.4000,5=0
+PRP Manufacturer 'KOA Speer'
+PRP Part_Number 'SG73S1ETTP1R0J'
+TOP 0 23.12500074 12.5000004 270 N 95 0 1
+TOP 1 22.3749997 12.5000004 270 N 3 1 2
+#
+# CMP 35
+CMP 22 22.87500124 21.10000098 0 N R14 SG73S1ETTP1R0J ;0=1,1=0.4000,5=0
+PRP Manufacturer 'KOA Speer'
+PRP Part_Number 'SG73S1ETTP1R0J'
+TOP 0 23.25000176 21.10000098 270 N 97 1 1
+TOP 1 22.50000072 21.10000098 270 N 4 2 2
+#
+# CMP 36
+CMP 22 27.09999914 29.49999942 0 N R13 SG73S1ETTP1R0J ;0=1,1=0.4000,5=0
+PRP Manufacturer 'KOA Speer'
+PRP Part_Number 'SG73S1ETTP1R0J'
+TOP 0 27.47499966 29.49999942 270 N 99 3 1
+TOP 1 26.72499862 29.49999942 270 N 100 0 2
+#
+# CMP 37
+CMP 22 26.87500086 38.0000002 0 N R12 SG73S1ETTP1R0J ;0=1,1=0.4000,5=0
+PRP Manufacturer 'KOA Speer'
+PRP Part_Number 'SG73S1ETTP1R0J'
+TOP 0 27.25000138 38.0000002 270 N 102 1 1
+TOP 1 26.50000034 38.0000002 270 N 5 1 2
+#
+# CMP 38
+CMP 22 27.62499936 46.24999894 0 N R11 SG73S1ETTP1R0J ;0=1,1=0.4000,5=0
+PRP Manufacturer 'KOA Speer'
+PRP Part_Number 'SG73S1ETTP1R0J'
+TOP 0 27.99999988 46.24999894 270 N 104 1 1
+TOP 1 27.24999884 46.24999894 270 N 6 0 2
+#
+# CMP 39
+CMP 22 41.99999982 12.9999994 0 N R10 SG73S1ETTP1R0J ;0=1,1=0.4000,5=0
+PRP Manufacturer 'KOA Speer'
+PRP Part_Number 'SG73S1ETTP1R0J'
+TOP 0 42.37500034 12.9999994 270 N 106 0 1
+TOP 1 41.6249993 12.9999994 270 N 7 1 2
+#
+# CMP 40
+CMP 22 40.87499826 21.00000118 0 N R9 SG73S1ETTP1R0J ;0=1,1=0.4000,5=0
+PRP Manufacturer 'KOA Speer'
+PRP Part_Number 'SG73S1ETTP1R0J'
+TOP 0 41.24999878 21.00000118 270 N 108 1 1
+TOP 1 40.49999774 21.00000118 270 N 109 0 2
+#
+# CMP 41
+CMP 22 44.87500042 29.49999942 0 N R8 SG73S1ETTP1R0J ;0=1,1=0.4000,5=0
+PRP Manufacturer 'KOA Speer'
+PRP Part_Number 'SG73S1ETTP1R0J'
+TOP 0 45.25000094 29.49999942 270 N 111 3 1
+TOP 1 44.4999999 29.49999942 270 N 8 2 2
+#
+# CMP 42
+CMP 22 44.62500092 38.0000002 0 N R7 SG73S1ETTP1R0J ;0=1,1=0.4000,5=0
+PRP Manufacturer 'KOA Speer'
+PRP Part_Number 'SG73S1ETTP1R0J'
+TOP 0 45.00000144 38.0000002 270 N 113 3 1
+TOP 1 44.2500004 38.0000002 270 N 9 1 2
+#
+# CMP 43
+CMP 22 44.4000001 46.60000078 0 N R6 SG73S1ETTP1R0J ;0=1,1=0.4000,5=0
+PRP Manufacturer 'KOA Speer'
+PRP Part_Number 'SG73S1ETTP1R0J'
+TOP 0 44.77500062 46.60000078 270 N 115 1 1
+TOP 1 44.02499958 46.60000078 270 N 10 0 2
+#
+# CMP 44
+CMP 22 61.49999892 12.9999994 0 N R5 SG73S1ETTP1R0J ;0=1,1=0.4000,5=0
+PRP Manufacturer 'KOA Speer'
+PRP Part_Number 'SG73S1ETTP1R0J'
+TOP 0 61.87499944 12.9999994 270 N 117 3 1
+TOP 1 61.1249984 12.9999994 270 N 118 2 2
+#
+# CMP 45
+CMP 22 61.75000096 21.25000068 180 N R4 SG73S1ETTP1R0J ;0=1,1=0.4000,5=0
+PRP Manufacturer 'KOA Speer'
+PRP Part_Number 'SG73S1ETTP1R0J'
+TOP 0 61.37500044 21.25000068 90 N 120 0 1
+TOP 1 62.12500148 21.25000068 90 N 11 1 2
+#
+# CMP 46
+CMP 22 61.49999892 29.49999942 0 N R3 SG73S1ETTP1R0J ;0=1,1=0.4000,5=0
+PRP Manufacturer 'KOA Speer'
+PRP Part_Number 'SG73S1ETTP1R0J'
+TOP 0 61.87499944 29.49999942 270 N 122 1 1
+TOP 1 61.1249984 29.49999942 270 N 12 0 2
+#
+# CMP 47
+CMP 22 61.75000096 38.0000002 0 N R2 SG73S1ETTP1R0J ;0=1,1=0.4000,5=0
+PRP Manufacturer 'KOA Speer'
+PRP Part_Number 'SG73S1ETTP1R0J'
+TOP 0 62.12500148 38.0000002 270 N 124 1 1
+TOP 1 61.37500044 38.0000002 270 N 13 0 2
+#
+# CMP 48
+CMP 22 62.12500148 46.24999894 0 N R1 SG73S1ETTP1R0J ;0=1,1=0.4000,5=0
+PRP Manufacturer 'KOA Speer'
+PRP Part_Number 'SG73S1ETTP1R0J'
+TOP 0 62.500002 46.24999894 270 N 126 1 1
+TOP 1 61.75000096 46.24999894 270 N 127 2 2
+#
+# CMP 49
+CMP 16 8.75000028 44.4999999 0 N F16 MF-PSMF010X-2 ;0=1,1=1.7500,5=0
+PRP Ambient_Temperature_Range_High '+85°C'
+PRP Ambient_Temperature_Range_Low '-40°C'
+PRP Automotive 'No'
+PRP Category 'Fuse'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.bourns.com/docs/Product-Datasheets/mfpsmf.pdf'
+PRP Current_Rating '40A'
+PRP Device_Class_L1 'Circuit Protection'
+PRP Device_Class_L2 'PTC Resettable Fuses'
+PRP Device_Class_L3 'unset'
+PRP Digikey_Description 'PTC RESET FUSE 15V 100MA 0805'
+PRP Height '0.85mm'
+PRP Hold_Current '0.1A'
+PRP Ipc_Land_Pattern_Name 'CAPC215135X67'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Bourns Inc.'
+PRP Manufacturer_Part_Number 'MF-PSMF010X-2'
+PRP Mouser_Description 'Resettable Fuses - PPTC 0.10A 15V 1ohm'
+PRP Octopart 'https://octopart.com/mf-psmf010x-2-bourns-7483441'
+PRP Package 'MF-PSMF'
+PRP Resistance '1-7.5O'
+PRP RoHS 'TRUE'
+PRP Temperature '-40°C to +85°C'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-40°C'
+PRP Trip_Current '0.3A'
+PRP Trip_Time '1.5s'
+PRP Value '1-7.5O'
+PRP Voltage_Rating '15V'
+TOP 0 9.85000062 44.4999999 180 N 2 1 1
+TOP 1 7.64999994 44.4999999 180 N 92 3 2
+#
+# CMP 50
+CMP 16 19.75000114 11.99999886 0 N F15 MF-PSMF010X-2 ;0=1,1=1.7500,5=0
+PRP Ambient_Temperature_Range_High '+85°C'
+PRP Ambient_Temperature_Range_Low '-40°C'
+PRP Automotive 'No'
+PRP Category 'Fuse'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.bourns.com/docs/Product-Datasheets/mfpsmf.pdf'
+PRP Current_Rating '40A'
+PRP Device_Class_L1 'Circuit Protection'
+PRP Device_Class_L2 'PTC Resettable Fuses'
+PRP Device_Class_L3 'unset'
+PRP Digikey_Description 'PTC RESET FUSE 15V 100MA 0805'
+PRP Height '0.85mm'
+PRP Hold_Current '0.1A'
+PRP Ipc_Land_Pattern_Name 'CAPC215135X67'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Bourns Inc.'
+PRP Manufacturer_Part_Number 'MF-PSMF010X-2'
+PRP Mouser_Description 'Resettable Fuses - PPTC 0.10A 15V 1ohm'
+PRP Octopart 'https://octopart.com/mf-psmf010x-2-bourns-7483441'
+PRP Package 'MF-PSMF'
+PRP Resistance '1-7.5O'
+PRP RoHS 'TRUE'
+PRP Temperature '-40°C to +85°C'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-40°C'
+PRP Trip_Current '0.3A'
+PRP Trip_Time '1.5s'
+PRP Value '1-7.5O'
+PRP Voltage_Rating '15V'
+TOP 0 20.85000148 11.99999886 180 N 3 2 1
+TOP 1 18.6500008 11.99999886 180 N 94 3 2
+#
+# CMP 51
+CMP 16 19.80000104 20.69999924 0 N F14 MF-PSMF010X-2 ;0=1,1=1.7500,5=0
+PRP Ambient_Temperature_Range_High '+85°C'
+PRP Ambient_Temperature_Range_Low '-40°C'
+PRP Automotive 'No'
+PRP Category 'Fuse'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.bourns.com/docs/Product-Datasheets/mfpsmf.pdf'
+PRP Current_Rating '40A'
+PRP Device_Class_L1 'Circuit Protection'
+PRP Device_Class_L2 'PTC Resettable Fuses'
+PRP Device_Class_L3 'unset'
+PRP Digikey_Description 'PTC RESET FUSE 15V 100MA 0805'
+PRP Height '0.85mm'
+PRP Hold_Current '0.1A'
+PRP Ipc_Land_Pattern_Name 'CAPC215135X67'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Bourns Inc.'
+PRP Manufacturer_Part_Number 'MF-PSMF010X-2'
+PRP Mouser_Description 'Resettable Fuses - PPTC 0.10A 15V 1ohm'
+PRP Octopart 'https://octopart.com/mf-psmf010x-2-bourns-7483441'
+PRP Package 'MF-PSMF'
+PRP Resistance '1-7.5O'
+PRP RoHS 'TRUE'
+PRP Temperature '-40°C to +85°C'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-40°C'
+PRP Trip_Current '0.3A'
+PRP Trip_Time '1.5s'
+PRP Value '1-7.5O'
+PRP Voltage_Rating '15V'
+TOP 0 20.90000138 20.69999924 180 N 4 0 1
+TOP 1 18.7000007 20.69999924 180 N 96 3 2
+#
+# CMP 52
+CMP 16 23.24999922 29.24999992 0 N F13 MF-PSMF010X-2 ;0=1,1=1.7500,5=0
+PRP Ambient_Temperature_Range_High '+85°C'
+PRP Ambient_Temperature_Range_Low '-40°C'
+PRP Automotive 'No'
+PRP Category 'Fuse'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.bourns.com/docs/Product-Datasheets/mfpsmf.pdf'
+PRP Current_Rating '40A'
+PRP Device_Class_L1 'Circuit Protection'
+PRP Device_Class_L2 'PTC Resettable Fuses'
+PRP Device_Class_L3 'unset'
+PRP Digikey_Description 'PTC RESET FUSE 15V 100MA 0805'
+PRP Height '0.85mm'
+PRP Hold_Current '0.1A'
+PRP Ipc_Land_Pattern_Name 'CAPC215135X67'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Bourns Inc.'
+PRP Manufacturer_Part_Number 'MF-PSMF010X-2'
+PRP Mouser_Description 'Resettable Fuses - PPTC 0.10A 15V 1ohm'
+PRP Octopart 'https://octopart.com/mf-psmf010x-2-bourns-7483441'
+PRP Package 'MF-PSMF'
+PRP Resistance '1-7.5O'
+PRP RoHS 'TRUE'
+PRP Temperature '-40°C to +85°C'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-40°C'
+PRP Trip_Current '0.3A'
+PRP Trip_Time '1.5s'
+PRP Value '1-7.5O'
+PRP Voltage_Rating '15V'
+TOP 0 24.34999956 29.24999992 180 N 100 1 1
+TOP 1 22.14999888 29.24999992 180 N 98 2 2
+#
+# CMP 53
+CMP 16 22.99999972 37.7500007 0 N F12 MF-PSMF010X-2 ;0=1,1=1.7500,5=0
+PRP Ambient_Temperature_Range_High '+85°C'
+PRP Ambient_Temperature_Range_Low '-40°C'
+PRP Automotive 'No'
+PRP Category 'Fuse'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.bourns.com/docs/Product-Datasheets/mfpsmf.pdf'
+PRP Current_Rating '40A'
+PRP Device_Class_L1 'Circuit Protection'
+PRP Device_Class_L2 'PTC Resettable Fuses'
+PRP Device_Class_L3 'unset'
+PRP Digikey_Description 'PTC RESET FUSE 15V 100MA 0805'
+PRP Height '0.85mm'
+PRP Hold_Current '0.1A'
+PRP Ipc_Land_Pattern_Name 'CAPC215135X67'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Bourns Inc.'
+PRP Manufacturer_Part_Number 'MF-PSMF010X-2'
+PRP Mouser_Description 'Resettable Fuses - PPTC 0.10A 15V 1ohm'
+PRP Octopart 'https://octopart.com/mf-psmf010x-2-bourns-7483441'
+PRP Package 'MF-PSMF'
+PRP Resistance '1-7.5O'
+PRP RoHS 'TRUE'
+PRP Temperature '-40°C to +85°C'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-40°C'
+PRP Trip_Current '0.3A'
+PRP Trip_Time '1.5s'
+PRP Value '1-7.5O'
+PRP Voltage_Rating '15V'
+TOP 0 24.10000006 37.7500007 180 N 5 2 1
+TOP 1 21.89999938 37.7500007 180 N 101 0 2
+#
+# CMP 54
+CMP 16 22.75000022 45.99999944 0 N F11 MF-PSMF010X-2 ;0=1,1=1.7500,5=0
+PRP Ambient_Temperature_Range_High '+85°C'
+PRP Ambient_Temperature_Range_Low '-40°C'
+PRP Automotive 'No'
+PRP Category 'Fuse'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.bourns.com/docs/Product-Datasheets/mfpsmf.pdf'
+PRP Current_Rating '40A'
+PRP Device_Class_L1 'Circuit Protection'
+PRP Device_Class_L2 'PTC Resettable Fuses'
+PRP Device_Class_L3 'unset'
+PRP Digikey_Description 'PTC RESET FUSE 15V 100MA 0805'
+PRP Height '0.85mm'
+PRP Hold_Current '0.1A'
+PRP Ipc_Land_Pattern_Name 'CAPC215135X67'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Bourns Inc.'
+PRP Manufacturer_Part_Number 'MF-PSMF010X-2'
+PRP Mouser_Description 'Resettable Fuses - PPTC 0.10A 15V 1ohm'
+PRP Octopart 'https://octopart.com/mf-psmf010x-2-bourns-7483441'
+PRP Package 'MF-PSMF'
+PRP Resistance '1-7.5O'
+PRP RoHS 'TRUE'
+PRP Temperature '-40°C to +85°C'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-40°C'
+PRP Trip_Current '0.3A'
+PRP Trip_Time '1.5s'
+PRP Value '1-7.5O'
+PRP Voltage_Rating '15V'
+TOP 0 23.85000056 45.99999944 180 N 6 1 1
+TOP 1 21.64999988 45.99999944 180 N 103 0 2
+#
+# CMP 55
+CMP 16 35.74999962 12.2500009 0 N F10 MF-PSMF010X-2 ;0=1,1=1.7500,5=0
+PRP Ambient_Temperature_Range_High '+85°C'
+PRP Ambient_Temperature_Range_Low '-40°C'
+PRP Automotive 'No'
+PRP Category 'Fuse'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.bourns.com/docs/Product-Datasheets/mfpsmf.pdf'
+PRP Current_Rating '40A'
+PRP Device_Class_L1 'Circuit Protection'
+PRP Device_Class_L2 'PTC Resettable Fuses'
+PRP Device_Class_L3 'unset'
+PRP Digikey_Description 'PTC RESET FUSE 15V 100MA 0805'
+PRP Height '0.85mm'
+PRP Hold_Current '0.1A'
+PRP Ipc_Land_Pattern_Name 'CAPC215135X67'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Bourns Inc.'
+PRP Manufacturer_Part_Number 'MF-PSMF010X-2'
+PRP Mouser_Description 'Resettable Fuses - PPTC 0.10A 15V 1ohm'
+PRP Octopart 'https://octopart.com/mf-psmf010x-2-bourns-7483441'
+PRP Package 'MF-PSMF'
+PRP Resistance '1-7.5O'
+PRP RoHS 'TRUE'
+PRP Temperature '-40°C to +85°C'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-40°C'
+PRP Trip_Current '0.3A'
+PRP Trip_Time '1.5s'
+PRP Value '1-7.5O'
+PRP Voltage_Rating '15V'
+TOP 0 36.84999996 12.2500009 180 N 7 2 1
+TOP 1 34.64999928 12.2500009 180 N 105 1 2
+#
+# CMP 56
+CMP 16 35.84999942 20.74999914 0 N F9 MF-PSMF010X-2 ;0=1,1=1.7500,5=0
+PRP Ambient_Temperature_Range_High '+85°C'
+PRP Ambient_Temperature_Range_Low '-40°C'
+PRP Automotive 'No'
+PRP Category 'Fuse'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.bourns.com/docs/Product-Datasheets/mfpsmf.pdf'
+PRP Current_Rating '40A'
+PRP Device_Class_L1 'Circuit Protection'
+PRP Device_Class_L2 'PTC Resettable Fuses'
+PRP Device_Class_L3 'unset'
+PRP Digikey_Description 'PTC RESET FUSE 15V 100MA 0805'
+PRP Height '0.85mm'
+PRP Hold_Current '0.1A'
+PRP Ipc_Land_Pattern_Name 'CAPC215135X67'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Bourns Inc.'
+PRP Manufacturer_Part_Number 'MF-PSMF010X-2'
+PRP Mouser_Description 'Resettable Fuses - PPTC 0.10A 15V 1ohm'
+PRP Octopart 'https://octopart.com/mf-psmf010x-2-bourns-7483441'
+PRP Package 'MF-PSMF'
+PRP Resistance '1-7.5O'
+PRP RoHS 'TRUE'
+PRP Temperature '-40°C to +85°C'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-40°C'
+PRP Trip_Current '0.3A'
+PRP Trip_Time '1.5s'
+PRP Value '1-7.5O'
+PRP Voltage_Rating '15V'
+TOP 0 36.94999976 20.74999914 180 N 109 1 1
+TOP 1 34.74999908 20.74999914 180 N 107 0 2
+#
+# CMP 57
+CMP 16 40.25000078 29.00000042 0 N F8 MF-PSMF010X-2 ;0=1,1=1.7500,5=0
+PRP Ambient_Temperature_Range_High '+85°C'
+PRP Ambient_Temperature_Range_Low '-40°C'
+PRP Automotive 'No'
+PRP Category 'Fuse'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.bourns.com/docs/Product-Datasheets/mfpsmf.pdf'
+PRP Current_Rating '40A'
+PRP Device_Class_L1 'Circuit Protection'
+PRP Device_Class_L2 'PTC Resettable Fuses'
+PRP Device_Class_L3 'unset'
+PRP Digikey_Description 'PTC RESET FUSE 15V 100MA 0805'
+PRP Height '0.85mm'
+PRP Hold_Current '0.1A'
+PRP Ipc_Land_Pattern_Name 'CAPC215135X67'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Bourns Inc.'
+PRP Manufacturer_Part_Number 'MF-PSMF010X-2'
+PRP Mouser_Description 'Resettable Fuses - PPTC 0.10A 15V 1ohm'
+PRP Octopart 'https://octopart.com/mf-psmf010x-2-bourns-7483441'
+PRP Package 'MF-PSMF'
+PRP Resistance '1-7.5O'
+PRP RoHS 'TRUE'
+PRP Temperature '-40°C to +85°C'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-40°C'
+PRP Trip_Current '0.3A'
+PRP Trip_Time '1.5s'
+PRP Value '1-7.5O'
+PRP Voltage_Rating '15V'
+TOP 0 41.35000112 29.00000042 180 N 8 1 1
+TOP 1 39.15000044 29.00000042 180 N 110 1 2
+#
+# CMP 58
+CMP 16 39.99999874 37.5000012 0 N F7 MF-PSMF010X-2 ;0=1,1=1.7500,5=0
+PRP Ambient_Temperature_Range_High '+85°C'
+PRP Ambient_Temperature_Range_Low '-40°C'
+PRP Automotive 'No'
+PRP Category 'Fuse'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.bourns.com/docs/Product-Datasheets/mfpsmf.pdf'
+PRP Current_Rating '40A'
+PRP Device_Class_L1 'Circuit Protection'
+PRP Device_Class_L2 'PTC Resettable Fuses'
+PRP Device_Class_L3 'unset'
+PRP Digikey_Description 'PTC RESET FUSE 15V 100MA 0805'
+PRP Height '0.85mm'
+PRP Hold_Current '0.1A'
+PRP Ipc_Land_Pattern_Name 'CAPC215135X67'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Bourns Inc.'
+PRP Manufacturer_Part_Number 'MF-PSMF010X-2'
+PRP Mouser_Description 'Resettable Fuses - PPTC 0.10A 15V 1ohm'
+PRP Octopart 'https://octopart.com/mf-psmf010x-2-bourns-7483441'
+PRP Package 'MF-PSMF'
+PRP Resistance '1-7.5O'
+PRP RoHS 'TRUE'
+PRP Temperature '-40°C to +85°C'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-40°C'
+PRP Trip_Current '0.3A'
+PRP Trip_Time '1.5s'
+PRP Value '1-7.5O'
+PRP Voltage_Rating '15V'
+TOP 0 41.09999908 37.5000012 180 N 9 2 1
+TOP 1 38.8999984 37.5000012 180 N 112 0 2
+#
+# CMP 59
+CMP 16 39.77500046 45.52499912 0 N F6 MF-PSMF010X-2 ;0=1,1=1.7500,5=0
+PRP Ambient_Temperature_Range_High '+85°C'
+PRP Ambient_Temperature_Range_Low '-40°C'
+PRP Automotive 'No'
+PRP Category 'Fuse'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.bourns.com/docs/Product-Datasheets/mfpsmf.pdf'
+PRP Current_Rating '40A'
+PRP Device_Class_L1 'Circuit Protection'
+PRP Device_Class_L2 'PTC Resettable Fuses'
+PRP Device_Class_L3 'unset'
+PRP Digikey_Description 'PTC RESET FUSE 15V 100MA 0805'
+PRP Height '0.85mm'
+PRP Hold_Current '0.1A'
+PRP Ipc_Land_Pattern_Name 'CAPC215135X67'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Bourns Inc.'
+PRP Manufacturer_Part_Number 'MF-PSMF010X-2'
+PRP Mouser_Description 'Resettable Fuses - PPTC 0.10A 15V 1ohm'
+PRP Octopart 'https://octopart.com/mf-psmf010x-2-bourns-7483441'
+PRP Package 'MF-PSMF'
+PRP Resistance '1-7.5O'
+PRP RoHS 'TRUE'
+PRP Temperature '-40°C to +85°C'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-40°C'
+PRP Trip_Current '0.3A'
+PRP Trip_Time '1.5s'
+PRP Value '1-7.5O'
+PRP Voltage_Rating '15V'
+TOP 0 40.8750008 45.52499912 180 N 10 1 1
+TOP 1 38.67500012 45.52499912 180 N 114 0 2
+#
+# CMP 60
+CMP 16 56.7500008 12.7499999 0 N F5 MF-PSMF010X-2 ;0=1,1=1.7500,5=0
+PRP Ambient_Temperature_Range_High '+85°C'
+PRP Ambient_Temperature_Range_Low '-40°C'
+PRP Automotive 'No'
+PRP Category 'Fuse'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.bourns.com/docs/Product-Datasheets/mfpsmf.pdf'
+PRP Current_Rating '40A'
+PRP Device_Class_L1 'Circuit Protection'
+PRP Device_Class_L2 'PTC Resettable Fuses'
+PRP Device_Class_L3 'unset'
+PRP Digikey_Description 'PTC RESET FUSE 15V 100MA 0805'
+PRP Height '0.85mm'
+PRP Hold_Current '0.1A'
+PRP Ipc_Land_Pattern_Name 'CAPC215135X67'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Bourns Inc.'
+PRP Manufacturer_Part_Number 'MF-PSMF010X-2'
+PRP Mouser_Description 'Resettable Fuses - PPTC 0.10A 15V 1ohm'
+PRP Octopart 'https://octopart.com/mf-psmf010x-2-bourns-7483441'
+PRP Package 'MF-PSMF'
+PRP Resistance '1-7.5O'
+PRP RoHS 'TRUE'
+PRP Temperature '-40°C to +85°C'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-40°C'
+PRP Trip_Current '0.3A'
+PRP Trip_Time '1.5s'
+PRP Value '1-7.5O'
+PRP Voltage_Rating '15V'
+TOP 0 57.85000114 12.7499999 180 N 118 1 1
+TOP 1 55.65000046 12.7499999 180 N 116 3 2
+#
+# CMP 61
+CMP 16 56.7500008 21.00000118 0 N F4 MF-PSMF010X-2 ;0=1,1=1.7500,5=0
+PRP Ambient_Temperature_Range_High '+85°C'
+PRP Ambient_Temperature_Range_Low '-40°C'
+PRP Automotive 'No'
+PRP Category 'Fuse'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.bourns.com/docs/Product-Datasheets/mfpsmf.pdf'
+PRP Current_Rating '40A'
+PRP Device_Class_L1 'Circuit Protection'
+PRP Device_Class_L2 'PTC Resettable Fuses'
+PRP Device_Class_L3 'unset'
+PRP Digikey_Description 'PTC RESET FUSE 15V 100MA 0805'
+PRP Height '0.85mm'
+PRP Hold_Current '0.1A'
+PRP Ipc_Land_Pattern_Name 'CAPC215135X67'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Bourns Inc.'
+PRP Manufacturer_Part_Number 'MF-PSMF010X-2'
+PRP Mouser_Description 'Resettable Fuses - PPTC 0.10A 15V 1ohm'
+PRP Octopart 'https://octopart.com/mf-psmf010x-2-bourns-7483441'
+PRP Package 'MF-PSMF'
+PRP Resistance '1-7.5O'
+PRP RoHS 'TRUE'
+PRP Temperature '-40°C to +85°C'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-40°C'
+PRP Trip_Current '0.3A'
+PRP Trip_Time '1.5s'
+PRP Value '1-7.5O'
+PRP Voltage_Rating '15V'
+TOP 0 57.85000114 21.00000118 180 N 11 2 1
+TOP 1 55.65000046 21.00000118 180 N 119 3 2
+#
+# CMP 62
+CMP 16 56.7500008 29.24999992 0 N F3 MF-PSMF010X-2 ;0=1,1=1.7500,5=0
+PRP Ambient_Temperature_Range_High '+85°C'
+PRP Ambient_Temperature_Range_Low '-40°C'
+PRP Automotive 'No'
+PRP Category 'Fuse'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.bourns.com/docs/Product-Datasheets/mfpsmf.pdf'
+PRP Current_Rating '40A'
+PRP Device_Class_L1 'Circuit Protection'
+PRP Device_Class_L2 'PTC Resettable Fuses'
+PRP Device_Class_L3 'unset'
+PRP Digikey_Description 'PTC RESET FUSE 15V 100MA 0805'
+PRP Height '0.85mm'
+PRP Hold_Current '0.1A'
+PRP Ipc_Land_Pattern_Name 'CAPC215135X67'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Bourns Inc.'
+PRP Manufacturer_Part_Number 'MF-PSMF010X-2'
+PRP Mouser_Description 'Resettable Fuses - PPTC 0.10A 15V 1ohm'
+PRP Octopart 'https://octopart.com/mf-psmf010x-2-bourns-7483441'
+PRP Package 'MF-PSMF'
+PRP Resistance '1-7.5O'
+PRP RoHS 'TRUE'
+PRP Temperature '-40°C to +85°C'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-40°C'
+PRP Trip_Current '0.3A'
+PRP Trip_Time '1.5s'
+PRP Value '1-7.5O'
+PRP Voltage_Rating '15V'
+TOP 0 57.85000114 29.24999992 180 N 12 2 1
+TOP 1 55.65000046 29.24999992 180 N 121 3 2
+#
+# CMP 63
+CMP 16 56.7500008 37.7500007 0 N F2 MF-PSMF010X-2 ;0=1,1=1.7500,5=0
+PRP Ambient_Temperature_Range_High '+85°C'
+PRP Ambient_Temperature_Range_Low '-40°C'
+PRP Automotive 'No'
+PRP Category 'Fuse'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.bourns.com/docs/Product-Datasheets/mfpsmf.pdf'
+PRP Current_Rating '40A'
+PRP Device_Class_L1 'Circuit Protection'
+PRP Device_Class_L2 'PTC Resettable Fuses'
+PRP Device_Class_L3 'unset'
+PRP Digikey_Description 'PTC RESET FUSE 15V 100MA 0805'
+PRP Height '0.85mm'
+PRP Hold_Current '0.1A'
+PRP Ipc_Land_Pattern_Name 'CAPC215135X67'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Bourns Inc.'
+PRP Manufacturer_Part_Number 'MF-PSMF010X-2'
+PRP Mouser_Description 'Resettable Fuses - PPTC 0.10A 15V 1ohm'
+PRP Octopart 'https://octopart.com/mf-psmf010x-2-bourns-7483441'
+PRP Package 'MF-PSMF'
+PRP Resistance '1-7.5O'
+PRP RoHS 'TRUE'
+PRP Temperature '-40°C to +85°C'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-40°C'
+PRP Trip_Current '0.3A'
+PRP Trip_Time '1.5s'
+PRP Value '1-7.5O'
+PRP Voltage_Rating '15V'
+TOP 0 57.85000114 37.7500007 180 N 13 1 1
+TOP 1 55.65000046 37.7500007 180 N 123 3 2
+#
+# CMP 64
+CMP 16 57.4999993 45.99999944 0 N F1 MF-PSMF010X-2 ;0=1,1=1.7500,5=0
+PRP Ambient_Temperature_Range_High '+85°C'
+PRP Ambient_Temperature_Range_Low '-40°C'
+PRP Automotive 'No'
+PRP Category 'Fuse'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.bourns.com/docs/Product-Datasheets/mfpsmf.pdf'
+PRP Current_Rating '40A'
+PRP Device_Class_L1 'Circuit Protection'
+PRP Device_Class_L2 'PTC Resettable Fuses'
+PRP Device_Class_L3 'unset'
+PRP Digikey_Description 'PTC RESET FUSE 15V 100MA 0805'
+PRP Height '0.85mm'
+PRP Hold_Current '0.1A'
+PRP Ipc_Land_Pattern_Name 'CAPC215135X67'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Bourns Inc.'
+PRP Manufacturer_Part_Number 'MF-PSMF010X-2'
+PRP Mouser_Description 'Resettable Fuses - PPTC 0.10A 15V 1ohm'
+PRP Octopart 'https://octopart.com/mf-psmf010x-2-bourns-7483441'
+PRP Package 'MF-PSMF'
+PRP Resistance '1-7.5O'
+PRP RoHS 'TRUE'
+PRP Temperature '-40°C to +85°C'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-40°C'
+PRP Trip_Current '0.3A'
+PRP Trip_Time '1.5s'
+PRP Value '1-7.5O'
+PRP Voltage_Rating '15V'
+TOP 0 58.59999964 45.99999944 180 N 127 1 1
+TOP 1 56.39999896 45.99999944 180 N 125 1 2
+#
+# CMP 65
+CMP 1 3.25000112 45.50000044 180 N D16 SMAJ5.0A ;0=1,1=2.6200,5=0
+PRP Applications 'GeneralPurpose'
+PRP Bidirectional_Channels '-'
+PRP Capacitance_@_Frequency '-'
+PRP Catalog_Drawings 'SMAJSeriesFootprintSMAJ,SMBJSeries'
+PRP Category 'CircuitProtection'
+PRP Current_-_Peak_Pulse_(10/1000µs) '43.5A'
+PRP Datasheet_URL 'https://datasheet.ciiva.com/25624/0900766b8112213b-25624680.pdf'
+PRP Datasheet_Version '08/2012'
+PRP EDA_/_CAD_Models 'DownloadfromAcceleratedDesigns'
+PRP Family 'TVS-Diodes'
+PRP Featured_Product 'SMAJ/SMBJ/SMCJ/SMLJDiscreteTVSDiodes'
+PRP Manufacturer 'Bourns'
+PRP Manufacturer_URL 'http://www.bourns.com/'
+PRP Mounting_Technology 'SurfaceMount'
+PRP Mounting_Type 'SurfaceMount'
+PRP Online_Catalog 'SMAJSeries'
+PRP Operating_Temperature '-55°C~150°C(TJ)'
+PRP Other_Names 'SMAJ5.0ABDKR'
+PRP Package_/_Case 'DO-214AC,SMA'
+PRP Package_Description '2-Pin Surface Mount Device, Body 4.315 x 2.605 mm'
+PRP Package_Reference 'SMA-2'
+PRP Packaging 'Digi-Reel®'
+PRP Power_-_Peak_Pulse '400W'
+PRP Power_Line_Protection 'No'
+PRP RoHS_Information 'SMAJSeriesMaterialDeclaration'
+PRP Series 'SMAJ'
+PRP Standard_Package '1'
+PRP Supplier_Device_Package 'SMA(DO-214AC)'
+PRP Type 'Zener'
+PRP Unidirectional_Channels '1'
+PRP Voltage_-_Breakdown_(Min) '6.4V'
+PRP Voltage_-_Clamping_(Max)_@_Ipp '9.2V'
+PRP Voltage_-_Reverse_Standoff_(Typ) '5V'
+TOP 0 1.26500128 45.50000044 90 N 133 91 1
+TOP 1 5.23500096 45.50000044 90 N 92 0 2
+#
+# CMP 66
+CMP 1 13.99999994 11.49999986 180 N D15 SMAJ5.0A ;0=1,1=2.6200,5=0
+PRP Applications 'GeneralPurpose'
+PRP Bidirectional_Channels '-'
+PRP Capacitance_@_Frequency '-'
+PRP Catalog_Drawings 'SMAJSeriesFootprintSMAJ,SMBJSeries'
+PRP Category 'CircuitProtection'
+PRP Current_-_Peak_Pulse_(10/1000µs) '43.5A'
+PRP Datasheet_URL 'https://datasheet.ciiva.com/25624/0900766b8112213b-25624680.pdf'
+PRP Datasheet_Version '08/2012'
+PRP EDA_/_CAD_Models 'DownloadfromAcceleratedDesigns'
+PRP Family 'TVS-Diodes'
+PRP Featured_Product 'SMAJ/SMBJ/SMCJ/SMLJDiscreteTVSDiodes'
+PRP Manufacturer 'Bourns'
+PRP Manufacturer_URL 'http://www.bourns.com/'
+PRP Mounting_Technology 'SurfaceMount'
+PRP Mounting_Type 'SurfaceMount'
+PRP Online_Catalog 'SMAJSeries'
+PRP Operating_Temperature '-55°C~150°C(TJ)'
+PRP Other_Names 'SMAJ5.0ABDKR'
+PRP Package_/_Case 'DO-214AC,SMA'
+PRP Package_Description '2-Pin Surface Mount Device, Body 4.315 x 2.605 mm'
+PRP Package_Reference 'SMA-2'
+PRP Packaging 'Digi-Reel®'
+PRP Power_-_Peak_Pulse '400W'
+PRP Power_Line_Protection 'No'
+PRP RoHS_Information 'SMAJSeriesMaterialDeclaration'
+PRP Series 'SMAJ'
+PRP Standard_Package '1'
+PRP Supplier_Device_Package 'SMA(DO-214AC)'
+PRP Type 'Zener'
+PRP Unidirectional_Channels '1'
+PRP Voltage_-_Breakdown_(Min) '6.4V'
+PRP Voltage_-_Clamping_(Max)_@_Ipp '9.2V'
+PRP Voltage_-_Reverse_Standoff_(Typ) '5V'
+TOP 0 12.0150001 11.49999986 90 N 133 187 1
+TOP 1 15.98499978 11.49999986 90 N 94 0 2
+#
+# CMP 67
+CMP 1 13.99999994 20.25000014 180 N D14 SMAJ5.0A ;0=1,1=2.6200,5=0
+PRP Applications 'GeneralPurpose'
+PRP Bidirectional_Channels '-'
+PRP Capacitance_@_Frequency '-'
+PRP Catalog_Drawings 'SMAJSeriesFootprintSMAJ,SMBJSeries'
+PRP Category 'CircuitProtection'
+PRP Current_-_Peak_Pulse_(10/1000µs) '43.5A'
+PRP Datasheet_URL 'https://datasheet.ciiva.com/25624/0900766b8112213b-25624680.pdf'
+PRP Datasheet_Version '08/2012'
+PRP EDA_/_CAD_Models 'DownloadfromAcceleratedDesigns'
+PRP Family 'TVS-Diodes'
+PRP Featured_Product 'SMAJ/SMBJ/SMCJ/SMLJDiscreteTVSDiodes'
+PRP Manufacturer 'Bourns'
+PRP Manufacturer_URL 'http://www.bourns.com/'
+PRP Mounting_Technology 'SurfaceMount'
+PRP Mounting_Type 'SurfaceMount'
+PRP Online_Catalog 'SMAJSeries'
+PRP Operating_Temperature '-55°C~150°C(TJ)'
+PRP Other_Names 'SMAJ5.0ABDKR'
+PRP Package_/_Case 'DO-214AC,SMA'
+PRP Package_Description '2-Pin Surface Mount Device, Body 4.315 x 2.605 mm'
+PRP Package_Reference 'SMA-2'
+PRP Packaging 'Digi-Reel®'
+PRP Power_-_Peak_Pulse '400W'
+PRP Power_Line_Protection 'No'
+PRP RoHS_Information 'SMAJSeriesMaterialDeclaration'
+PRP Series 'SMAJ'
+PRP Standard_Package '1'
+PRP Supplier_Device_Package 'SMA(DO-214AC)'
+PRP Type 'Zener'
+PRP Unidirectional_Channels '1'
+PRP Voltage_-_Breakdown_(Min) '6.4V'
+PRP Voltage_-_Clamping_(Max)_@_Ipp '9.2V'
+PRP Voltage_-_Reverse_Standoff_(Typ) '5V'
+TOP 0 12.0150001 20.25000014 90 N 133 197 1
+TOP 1 15.98499978 20.25000014 90 N 96 0 2
+#
+# CMP 68
+CMP 1 17.50000056 28.60000122 180 N D13 SMAJ5.0A ;0=1,1=2.6200,5=0
+PRP Applications 'GeneralPurpose'
+PRP Bidirectional_Channels '-'
+PRP Capacitance_@_Frequency '-'
+PRP Catalog_Drawings 'SMAJSeriesFootprintSMAJ,SMBJSeries'
+PRP Category 'CircuitProtection'
+PRP Current_-_Peak_Pulse_(10/1000µs) '43.5A'
+PRP Datasheet_URL 'https://datasheet.ciiva.com/25624/0900766b8112213b-25624680.pdf'
+PRP Datasheet_Version '08/2012'
+PRP EDA_/_CAD_Models 'DownloadfromAcceleratedDesigns'
+PRP Family 'TVS-Diodes'
+PRP Featured_Product 'SMAJ/SMBJ/SMCJ/SMLJDiscreteTVSDiodes'
+PRP Manufacturer 'Bourns'
+PRP Manufacturer_URL 'http://www.bourns.com/'
+PRP Mounting_Technology 'SurfaceMount'
+PRP Mounting_Type 'SurfaceMount'
+PRP Online_Catalog 'SMAJSeries'
+PRP Operating_Temperature '-55°C~150°C(TJ)'
+PRP Other_Names 'SMAJ5.0ABDKR'
+PRP Package_/_Case 'DO-214AC,SMA'
+PRP Package_Description '2-Pin Surface Mount Device, Body 4.315 x 2.605 mm'
+PRP Package_Reference 'SMA-2'
+PRP Packaging 'Digi-Reel®'
+PRP Power_-_Peak_Pulse '400W'
+PRP Power_Line_Protection 'No'
+PRP RoHS_Information 'SMAJSeriesMaterialDeclaration'
+PRP Series 'SMAJ'
+PRP Standard_Package '1'
+PRP Supplier_Device_Package 'SMA(DO-214AC)'
+PRP Type 'Zener'
+PRP Unidirectional_Channels '1'
+PRP Voltage_-_Breakdown_(Min) '6.4V'
+PRP Voltage_-_Clamping_(Max)_@_Ipp '9.2V'
+PRP Voltage_-_Reverse_Standoff_(Typ) '5V'
+TOP 0 15.51500072 28.60000122 90 N 133 161 1
+TOP 1 19.4850004 28.60000122 90 N 98 0 2
+#
+# CMP 69
+CMP 1 17.62499904 37.24999916 180 N D12 SMAJ5.0A ;0=1,1=2.6200,5=0
+PRP Applications 'GeneralPurpose'
+PRP Bidirectional_Channels '-'
+PRP Capacitance_@_Frequency '-'
+PRP Catalog_Drawings 'SMAJSeriesFootprintSMAJ,SMBJSeries'
+PRP Category 'CircuitProtection'
+PRP Current_-_Peak_Pulse_(10/1000µs) '43.5A'
+PRP Datasheet_URL 'https://datasheet.ciiva.com/25624/0900766b8112213b-25624680.pdf'
+PRP Datasheet_Version '08/2012'
+PRP EDA_/_CAD_Models 'DownloadfromAcceleratedDesigns'
+PRP Family 'TVS-Diodes'
+PRP Featured_Product 'SMAJ/SMBJ/SMCJ/SMLJDiscreteTVSDiodes'
+PRP Manufacturer 'Bourns'
+PRP Manufacturer_URL 'http://www.bourns.com/'
+PRP Mounting_Technology 'SurfaceMount'
+PRP Mounting_Type 'SurfaceMount'
+PRP Online_Catalog 'SMAJSeries'
+PRP Operating_Temperature '-55°C~150°C(TJ)'
+PRP Other_Names 'SMAJ5.0ABDKR'
+PRP Package_/_Case 'DO-214AC,SMA'
+PRP Package_Description '2-Pin Surface Mount Device, Body 4.315 x 2.605 mm'
+PRP Package_Reference 'SMA-2'
+PRP Packaging 'Digi-Reel®'
+PRP Power_-_Peak_Pulse '400W'
+PRP Power_Line_Protection 'No'
+PRP RoHS_Information 'SMAJSeriesMaterialDeclaration'
+PRP Series 'SMAJ'
+PRP Standard_Package '1'
+PRP Supplier_Device_Package 'SMA(DO-214AC)'
+PRP Type 'Zener'
+PRP Unidirectional_Channels '1'
+PRP Voltage_-_Breakdown_(Min) '6.4V'
+PRP Voltage_-_Clamping_(Max)_@_Ipp '9.2V'
+PRP Voltage_-_Reverse_Standoff_(Typ) '5V'
+TOP 0 15.6399992 37.24999916 90 N 133 148 1
+TOP 1 19.60999888 37.24999916 90 N 101 3 2
+#
+# CMP 70
+CMP 1 17.50000056 45.47499922 180 N D11 SMAJ5.0A ;0=1,1=2.6200,5=0
+PRP Applications 'GeneralPurpose'
+PRP Bidirectional_Channels '-'
+PRP Capacitance_@_Frequency '-'
+PRP Catalog_Drawings 'SMAJSeriesFootprintSMAJ,SMBJSeries'
+PRP Category 'CircuitProtection'
+PRP Current_-_Peak_Pulse_(10/1000µs) '43.5A'
+PRP Datasheet_URL 'https://datasheet.ciiva.com/25624/0900766b8112213b-25624680.pdf'
+PRP Datasheet_Version '08/2012'
+PRP EDA_/_CAD_Models 'DownloadfromAcceleratedDesigns'
+PRP Family 'TVS-Diodes'
+PRP Featured_Product 'SMAJ/SMBJ/SMCJ/SMLJDiscreteTVSDiodes'
+PRP Manufacturer 'Bourns'
+PRP Manufacturer_URL 'http://www.bourns.com/'
+PRP Mounting_Technology 'SurfaceMount'
+PRP Mounting_Type 'SurfaceMount'
+PRP Online_Catalog 'SMAJSeries'
+PRP Operating_Temperature '-55°C~150°C(TJ)'
+PRP Other_Names 'SMAJ5.0ABDKR'
+PRP Package_/_Case 'DO-214AC,SMA'
+PRP Package_Description '2-Pin Surface Mount Device, Body 4.315 x 2.605 mm'
+PRP Package_Reference 'SMA-2'
+PRP Packaging 'Digi-Reel®'
+PRP Power_-_Peak_Pulse '400W'
+PRP Power_Line_Protection 'No'
+PRP RoHS_Information 'SMAJSeriesMaterialDeclaration'
+PRP Series 'SMAJ'
+PRP Standard_Package '1'
+PRP Supplier_Device_Package 'SMA(DO-214AC)'
+PRP Type 'Zener'
+PRP Unidirectional_Channels '1'
+PRP Voltage_-_Breakdown_(Min) '6.4V'
+PRP Voltage_-_Clamping_(Max)_@_Ipp '9.2V'
+PRP Voltage_-_Reverse_Standoff_(Typ) '5V'
+TOP 0 15.51500072 45.47499922 90 N 133 180 1
+TOP 1 19.4850004 45.47499922 90 N 103 1 2
+#
+# CMP 71
+CMP 1 30.49999996 11.74999936 180 N D10 SMAJ5.0A ;0=1,1=2.6200,5=0
+PRP Applications 'GeneralPurpose'
+PRP Bidirectional_Channels '-'
+PRP Capacitance_@_Frequency '-'
+PRP Catalog_Drawings 'SMAJSeriesFootprintSMAJ,SMBJSeries'
+PRP Category 'CircuitProtection'
+PRP Current_-_Peak_Pulse_(10/1000µs) '43.5A'
+PRP Datasheet_URL 'https://datasheet.ciiva.com/25624/0900766b8112213b-25624680.pdf'
+PRP Datasheet_Version '08/2012'
+PRP EDA_/_CAD_Models 'DownloadfromAcceleratedDesigns'
+PRP Family 'TVS-Diodes'
+PRP Featured_Product 'SMAJ/SMBJ/SMCJ/SMLJDiscreteTVSDiodes'
+PRP Manufacturer 'Bourns'
+PRP Manufacturer_URL 'http://www.bourns.com/'
+PRP Mounting_Technology 'SurfaceMount'
+PRP Mounting_Type 'SurfaceMount'
+PRP Online_Catalog 'SMAJSeries'
+PRP Operating_Temperature '-55°C~150°C(TJ)'
+PRP Other_Names 'SMAJ5.0ABDKR'
+PRP Package_/_Case 'DO-214AC,SMA'
+PRP Package_Description '2-Pin Surface Mount Device, Body 4.315 x 2.605 mm'
+PRP Package_Reference 'SMA-2'
+PRP Packaging 'Digi-Reel®'
+PRP Power_-_Peak_Pulse '400W'
+PRP Power_Line_Protection 'No'
+PRP RoHS_Information 'SMAJSeriesMaterialDeclaration'
+PRP Series 'SMAJ'
+PRP Standard_Package '1'
+PRP Supplier_Device_Package 'SMA(DO-214AC)'
+PRP Type 'Zener'
+PRP Unidirectional_Channels '1'
+PRP Voltage_-_Breakdown_(Min) '6.4V'
+PRP Voltage_-_Clamping_(Max)_@_Ipp '9.2V'
+PRP Voltage_-_Reverse_Standoff_(Typ) '5V'
+TOP 0 28.51500012 11.74999936 90 N 133 206 1
+TOP 1 32.4849998 11.74999936 90 N 105 0 2
+#
+# CMP 72
+CMP 1 30.25000046 20.00000064 180 N D9 SMAJ5.0A ;0=1,1=2.6200,5=0
+PRP Applications 'GeneralPurpose'
+PRP Bidirectional_Channels '-'
+PRP Capacitance_@_Frequency '-'
+PRP Catalog_Drawings 'SMAJSeriesFootprintSMAJ,SMBJSeries'
+PRP Category 'CircuitProtection'
+PRP Current_-_Peak_Pulse_(10/1000µs) '43.5A'
+PRP Datasheet_URL 'https://datasheet.ciiva.com/25624/0900766b8112213b-25624680.pdf'
+PRP Datasheet_Version '08/2012'
+PRP EDA_/_CAD_Models 'DownloadfromAcceleratedDesigns'
+PRP Family 'TVS-Diodes'
+PRP Featured_Product 'SMAJ/SMBJ/SMCJ/SMLJDiscreteTVSDiodes'
+PRP Manufacturer 'Bourns'
+PRP Manufacturer_URL 'http://www.bourns.com/'
+PRP Mounting_Technology 'SurfaceMount'
+PRP Mounting_Type 'SurfaceMount'
+PRP Online_Catalog 'SMAJSeries'
+PRP Operating_Temperature '-55°C~150°C(TJ)'
+PRP Other_Names 'SMAJ5.0ABDKR'
+PRP Package_/_Case 'DO-214AC,SMA'
+PRP Package_Description '2-Pin Surface Mount Device, Body 4.315 x 2.605 mm'
+PRP Package_Reference 'SMA-2'
+PRP Packaging 'Digi-Reel®'
+PRP Power_-_Peak_Pulse '400W'
+PRP Power_Line_Protection 'No'
+PRP RoHS_Information 'SMAJSeriesMaterialDeclaration'
+PRP Series 'SMAJ'
+PRP Standard_Package '1'
+PRP Supplier_Device_Package 'SMA(DO-214AC)'
+PRP Type 'Zener'
+PRP Unidirectional_Channels '1'
+PRP Voltage_-_Breakdown_(Min) '6.4V'
+PRP Voltage_-_Clamping_(Max)_@_Ipp '9.2V'
+PRP Voltage_-_Reverse_Standoff_(Typ) '5V'
+TOP 0 28.26500062 20.00000064 90 N 133 190 1
+TOP 1 32.2350003 20.00000064 90 N 107 1 2
+#
+# CMP 73
+CMP 1 34.49999958 28.49999888 180 N D8 SMAJ5.0A ;0=1,1=2.6200,5=0
+PRP Applications 'GeneralPurpose'
+PRP Bidirectional_Channels '-'
+PRP Capacitance_@_Frequency '-'
+PRP Catalog_Drawings 'SMAJSeriesFootprintSMAJ,SMBJSeries'
+PRP Category 'CircuitProtection'
+PRP Current_-_Peak_Pulse_(10/1000µs) '43.5A'
+PRP Datasheet_URL 'https://datasheet.ciiva.com/25624/0900766b8112213b-25624680.pdf'
+PRP Datasheet_Version '08/2012'
+PRP EDA_/_CAD_Models 'DownloadfromAcceleratedDesigns'
+PRP Family 'TVS-Diodes'
+PRP Featured_Product 'SMAJ/SMBJ/SMCJ/SMLJDiscreteTVSDiodes'
+PRP Manufacturer 'Bourns'
+PRP Manufacturer_URL 'http://www.bourns.com/'
+PRP Mounting_Technology 'SurfaceMount'
+PRP Mounting_Type 'SurfaceMount'
+PRP Online_Catalog 'SMAJSeries'
+PRP Operating_Temperature '-55°C~150°C(TJ)'
+PRP Other_Names 'SMAJ5.0ABDKR'
+PRP Package_/_Case 'DO-214AC,SMA'
+PRP Package_Description '2-Pin Surface Mount Device, Body 4.315 x 2.605 mm'
+PRP Package_Reference 'SMA-2'
+PRP Packaging 'Digi-Reel®'
+PRP Power_-_Peak_Pulse '400W'
+PRP Power_Line_Protection 'No'
+PRP RoHS_Information 'SMAJSeriesMaterialDeclaration'
+PRP Series 'SMAJ'
+PRP Standard_Package '1'
+PRP Supplier_Device_Package 'SMA(DO-214AC)'
+PRP Type 'Zener'
+PRP Unidirectional_Channels '1'
+PRP Voltage_-_Breakdown_(Min) '6.4V'
+PRP Voltage_-_Clamping_(Max)_@_Ipp '9.2V'
+PRP Voltage_-_Reverse_Standoff_(Typ) '5V'
+TOP 0 32.51499974 28.49999888 90 N 133 149 1
+TOP 1 36.48499942 28.49999888 90 N 110 2 2
+#
+# CMP 74
+CMP 1 34.48500088 36.99999966 180 N D7 SMAJ5.0A ;0=1,1=2.6200,5=0
+PRP Applications 'GeneralPurpose'
+PRP Bidirectional_Channels '-'
+PRP Capacitance_@_Frequency '-'
+PRP Catalog_Drawings 'SMAJSeriesFootprintSMAJ,SMBJSeries'
+PRP Category 'CircuitProtection'
+PRP Current_-_Peak_Pulse_(10/1000µs) '43.5A'
+PRP Datasheet_URL 'https://datasheet.ciiva.com/25624/0900766b8112213b-25624680.pdf'
+PRP Datasheet_Version '08/2012'
+PRP EDA_/_CAD_Models 'DownloadfromAcceleratedDesigns'
+PRP Family 'TVS-Diodes'
+PRP Featured_Product 'SMAJ/SMBJ/SMCJ/SMLJDiscreteTVSDiodes'
+PRP Manufacturer 'Bourns'
+PRP Manufacturer_URL 'http://www.bourns.com/'
+PRP Mounting_Technology 'SurfaceMount'
+PRP Mounting_Type 'SurfaceMount'
+PRP Online_Catalog 'SMAJSeries'
+PRP Operating_Temperature '-55°C~150°C(TJ)'
+PRP Other_Names 'SMAJ5.0ABDKR'
+PRP Package_/_Case 'DO-214AC,SMA'
+PRP Package_Description '2-Pin Surface Mount Device, Body 4.315 x 2.605 mm'
+PRP Package_Reference 'SMA-2'
+PRP Packaging 'Digi-Reel®'
+PRP Power_-_Peak_Pulse '400W'
+PRP Power_Line_Protection 'No'
+PRP RoHS_Information 'SMAJSeriesMaterialDeclaration'
+PRP Series 'SMAJ'
+PRP Standard_Package '1'
+PRP Supplier_Device_Package 'SMA(DO-214AC)'
+PRP Type 'Zener'
+PRP Unidirectional_Channels '1'
+PRP Voltage_-_Breakdown_(Min) '6.4V'
+PRP Voltage_-_Clamping_(Max)_@_Ipp '9.2V'
+PRP Voltage_-_Reverse_Standoff_(Typ) '5V'
+TOP 0 32.50000104 36.99999966 90 N 133 145 1
+TOP 1 36.47000072 36.99999966 90 N 112 3 2
+#
+# CMP 75
+CMP 1 34.49999958 45.25000094 180 N D6 SMAJ5.0A ;0=1,1=2.6200,5=0
+PRP Applications 'GeneralPurpose'
+PRP Bidirectional_Channels '-'
+PRP Capacitance_@_Frequency '-'
+PRP Catalog_Drawings 'SMAJSeriesFootprintSMAJ,SMBJSeries'
+PRP Category 'CircuitProtection'
+PRP Current_-_Peak_Pulse_(10/1000µs) '43.5A'
+PRP Datasheet_URL 'https://datasheet.ciiva.com/25624/0900766b8112213b-25624680.pdf'
+PRP Datasheet_Version '08/2012'
+PRP EDA_/_CAD_Models 'DownloadfromAcceleratedDesigns'
+PRP Family 'TVS-Diodes'
+PRP Featured_Product 'SMAJ/SMBJ/SMCJ/SMLJDiscreteTVSDiodes'
+PRP Manufacturer 'Bourns'
+PRP Manufacturer_URL 'http://www.bourns.com/'
+PRP Mounting_Technology 'SurfaceMount'
+PRP Mounting_Type 'SurfaceMount'
+PRP Online_Catalog 'SMAJSeries'
+PRP Operating_Temperature '-55°C~150°C(TJ)'
+PRP Other_Names 'SMAJ5.0ABDKR'
+PRP Package_/_Case 'DO-214AC,SMA'
+PRP Package_Description '2-Pin Surface Mount Device, Body 4.315 x 2.605 mm'
+PRP Package_Reference 'SMA-2'
+PRP Packaging 'Digi-Reel®'
+PRP Power_-_Peak_Pulse '400W'
+PRP Power_Line_Protection 'No'
+PRP RoHS_Information 'SMAJSeriesMaterialDeclaration'
+PRP Series 'SMAJ'
+PRP Standard_Package '1'
+PRP Supplier_Device_Package 'SMA(DO-214AC)'
+PRP Type 'Zener'
+PRP Unidirectional_Channels '1'
+PRP Voltage_-_Breakdown_(Min) '6.4V'
+PRP Voltage_-_Clamping_(Max)_@_Ipp '9.2V'
+PRP Voltage_-_Reverse_Standoff_(Typ) '5V'
+TOP 0 32.51499974 45.25000094 90 N 133 101 1
+TOP 1 36.48499942 45.25000094 90 N 114 2 2
+#
+# CMP 76
+CMP 1 51.50000114 12.2500009 180 N D5 SMAJ5.0A ;0=1,1=2.6200,5=0
+PRP Applications 'GeneralPurpose'
+PRP Bidirectional_Channels '-'
+PRP Capacitance_@_Frequency '-'
+PRP Catalog_Drawings 'SMAJSeriesFootprintSMAJ,SMBJSeries'
+PRP Category 'CircuitProtection'
+PRP Current_-_Peak_Pulse_(10/1000µs) '43.5A'
+PRP Datasheet_URL 'https://datasheet.ciiva.com/25624/0900766b8112213b-25624680.pdf'
+PRP Datasheet_Version '08/2012'
+PRP EDA_/_CAD_Models 'DownloadfromAcceleratedDesigns'
+PRP Family 'TVS-Diodes'
+PRP Featured_Product 'SMAJ/SMBJ/SMCJ/SMLJDiscreteTVSDiodes'
+PRP Manufacturer 'Bourns'
+PRP Manufacturer_URL 'http://www.bourns.com/'
+PRP Mounting_Technology 'SurfaceMount'
+PRP Mounting_Type 'SurfaceMount'
+PRP Online_Catalog 'SMAJSeries'
+PRP Operating_Temperature '-55°C~150°C(TJ)'
+PRP Other_Names 'SMAJ5.0ABDKR'
+PRP Package_/_Case 'DO-214AC,SMA'
+PRP Package_Description '2-Pin Surface Mount Device, Body 4.315 x 2.605 mm'
+PRP Package_Reference 'SMA-2'
+PRP Packaging 'Digi-Reel®'
+PRP Power_-_Peak_Pulse '400W'
+PRP Power_Line_Protection 'No'
+PRP RoHS_Information 'SMAJSeriesMaterialDeclaration'
+PRP Series 'SMAJ'
+PRP Standard_Package '1'
+PRP Supplier_Device_Package 'SMA(DO-214AC)'
+PRP Type 'Zener'
+PRP Unidirectional_Channels '1'
+PRP Voltage_-_Breakdown_(Min) '6.4V'
+PRP Voltage_-_Clamping_(Max)_@_Ipp '9.2V'
+PRP Voltage_-_Reverse_Standoff_(Typ) '5V'
+TOP 0 49.5150013 12.2500009 90 N 133 98 1
+TOP 1 53.48500098 12.2500009 90 N 116 0 2
+#
+# CMP 77
+CMP 1 51.50000114 20.25000014 180 N D4 SMAJ5.0A ;0=1,1=2.6200,5=0
+PRP Applications 'GeneralPurpose'
+PRP Bidirectional_Channels '-'
+PRP Capacitance_@_Frequency '-'
+PRP Catalog_Drawings 'SMAJSeriesFootprintSMAJ,SMBJSeries'
+PRP Category 'CircuitProtection'
+PRP Current_-_Peak_Pulse_(10/1000µs) '43.5A'
+PRP Datasheet_URL 'https://datasheet.ciiva.com/25624/0900766b8112213b-25624680.pdf'
+PRP Datasheet_Version '08/2012'
+PRP EDA_/_CAD_Models 'DownloadfromAcceleratedDesigns'
+PRP Family 'TVS-Diodes'
+PRP Featured_Product 'SMAJ/SMBJ/SMCJ/SMLJDiscreteTVSDiodes'
+PRP Manufacturer 'Bourns'
+PRP Manufacturer_URL 'http://www.bourns.com/'
+PRP Mounting_Technology 'SurfaceMount'
+PRP Mounting_Type 'SurfaceMount'
+PRP Online_Catalog 'SMAJSeries'
+PRP Operating_Temperature '-55°C~150°C(TJ)'
+PRP Other_Names 'SMAJ5.0ABDKR'
+PRP Package_/_Case 'DO-214AC,SMA'
+PRP Package_Description '2-Pin Surface Mount Device, Body 4.315 x 2.605 mm'
+PRP Package_Reference 'SMA-2'
+PRP Packaging 'Digi-Reel®'
+PRP Power_-_Peak_Pulse '400W'
+PRP Power_Line_Protection 'No'
+PRP RoHS_Information 'SMAJSeriesMaterialDeclaration'
+PRP Series 'SMAJ'
+PRP Standard_Package '1'
+PRP Supplier_Device_Package 'SMA(DO-214AC)'
+PRP Type 'Zener'
+PRP Unidirectional_Channels '1'
+PRP Voltage_-_Breakdown_(Min) '6.4V'
+PRP Voltage_-_Clamping_(Max)_@_Ipp '9.2V'
+PRP Voltage_-_Reverse_Standoff_(Typ) '5V'
+TOP 0 49.5150013 20.25000014 90 N 133 139 1
+TOP 1 53.48500098 20.25000014 90 N 119 0 2
+#
+# CMP 78
+CMP 1 51.2499991 28.75000092 180 N D3 SMAJ5.0A ;0=1,1=2.6200,5=0
+PRP Applications 'GeneralPurpose'
+PRP Bidirectional_Channels '-'
+PRP Capacitance_@_Frequency '-'
+PRP Catalog_Drawings 'SMAJSeriesFootprintSMAJ,SMBJSeries'
+PRP Category 'CircuitProtection'
+PRP Current_-_Peak_Pulse_(10/1000µs) '43.5A'
+PRP Datasheet_URL 'https://datasheet.ciiva.com/25624/0900766b8112213b-25624680.pdf'
+PRP Datasheet_Version '08/2012'
+PRP EDA_/_CAD_Models 'DownloadfromAcceleratedDesigns'
+PRP Family 'TVS-Diodes'
+PRP Featured_Product 'SMAJ/SMBJ/SMCJ/SMLJDiscreteTVSDiodes'
+PRP Manufacturer 'Bourns'
+PRP Manufacturer_URL 'http://www.bourns.com/'
+PRP Mounting_Technology 'SurfaceMount'
+PRP Mounting_Type 'SurfaceMount'
+PRP Online_Catalog 'SMAJSeries'
+PRP Operating_Temperature '-55°C~150°C(TJ)'
+PRP Other_Names 'SMAJ5.0ABDKR'
+PRP Package_/_Case 'DO-214AC,SMA'
+PRP Package_Description '2-Pin Surface Mount Device, Body 4.315 x 2.605 mm'
+PRP Package_Reference 'SMA-2'
+PRP Packaging 'Digi-Reel®'
+PRP Power_-_Peak_Pulse '400W'
+PRP Power_Line_Protection 'No'
+PRP RoHS_Information 'SMAJSeriesMaterialDeclaration'
+PRP Series 'SMAJ'
+PRP Standard_Package '1'
+PRP Supplier_Device_Package 'SMA(DO-214AC)'
+PRP Type 'Zener'
+PRP Unidirectional_Channels '1'
+PRP Voltage_-_Breakdown_(Min) '6.4V'
+PRP Voltage_-_Clamping_(Max)_@_Ipp '9.2V'
+PRP Voltage_-_Reverse_Standoff_(Typ) '5V'
+TOP 0 49.26499926 28.75000092 90 N 133 134 1
+TOP 1 53.23499894 28.75000092 90 N 121 1 2
+#
+# CMP 79
+CMP 1 51.2499991 37.24999916 180 N D2 SMAJ5.0A ;0=1,1=2.6200,5=0
+PRP Applications 'GeneralPurpose'
+PRP Bidirectional_Channels '-'
+PRP Capacitance_@_Frequency '-'
+PRP Catalog_Drawings 'SMAJSeriesFootprintSMAJ,SMBJSeries'
+PRP Category 'CircuitProtection'
+PRP Current_-_Peak_Pulse_(10/1000µs) '43.5A'
+PRP Datasheet_URL 'https://datasheet.ciiva.com/25624/0900766b8112213b-25624680.pdf'
+PRP Datasheet_Version '08/2012'
+PRP EDA_/_CAD_Models 'DownloadfromAcceleratedDesigns'
+PRP Family 'TVS-Diodes'
+PRP Featured_Product 'SMAJ/SMBJ/SMCJ/SMLJDiscreteTVSDiodes'
+PRP Manufacturer 'Bourns'
+PRP Manufacturer_URL 'http://www.bourns.com/'
+PRP Mounting_Technology 'SurfaceMount'
+PRP Mounting_Type 'SurfaceMount'
+PRP Online_Catalog 'SMAJSeries'
+PRP Operating_Temperature '-55°C~150°C(TJ)'
+PRP Other_Names 'SMAJ5.0ABDKR'
+PRP Package_/_Case 'DO-214AC,SMA'
+PRP Package_Description '2-Pin Surface Mount Device, Body 4.315 x 2.605 mm'
+PRP Package_Reference 'SMA-2'
+PRP Packaging 'Digi-Reel®'
+PRP Power_-_Peak_Pulse '400W'
+PRP Power_Line_Protection 'No'
+PRP RoHS_Information 'SMAJSeriesMaterialDeclaration'
+PRP Series 'SMAJ'
+PRP Standard_Package '1'
+PRP Supplier_Device_Package 'SMA(DO-214AC)'
+PRP Type 'Zener'
+PRP Unidirectional_Channels '1'
+PRP Voltage_-_Breakdown_(Min) '6.4V'
+PRP Voltage_-_Clamping_(Max)_@_Ipp '9.2V'
+PRP Voltage_-_Reverse_Standoff_(Typ) '5V'
+TOP 0 49.26499926 37.24999916 90 N 133 97 1
+TOP 1 53.23499894 37.24999916 90 N 123 0 2
+#
+# CMP 80
+CMP 1 51.50000114 45.50000044 180 N D1 SMAJ5.0A ;0=1,1=2.6200,5=0
+PRP Applications 'GeneralPurpose'
+PRP Bidirectional_Channels '-'
+PRP Capacitance_@_Frequency '-'
+PRP Catalog_Drawings 'SMAJSeriesFootprintSMAJ,SMBJSeries'
+PRP Category 'CircuitProtection'
+PRP Current_-_Peak_Pulse_(10/1000µs) '43.5A'
+PRP Datasheet_URL 'https://datasheet.ciiva.com/25624/0900766b8112213b-25624680.pdf'
+PRP Datasheet_Version '08/2012'
+PRP EDA_/_CAD_Models 'DownloadfromAcceleratedDesigns'
+PRP Family 'TVS-Diodes'
+PRP Featured_Product 'SMAJ/SMBJ/SMCJ/SMLJDiscreteTVSDiodes'
+PRP Manufacturer 'Bourns'
+PRP Manufacturer_URL 'http://www.bourns.com/'
+PRP Mounting_Technology 'SurfaceMount'
+PRP Mounting_Type 'SurfaceMount'
+PRP Online_Catalog 'SMAJSeries'
+PRP Operating_Temperature '-55°C~150°C(TJ)'
+PRP Other_Names 'SMAJ5.0ABDKR'
+PRP Package_/_Case 'DO-214AC,SMA'
+PRP Package_Description '2-Pin Surface Mount Device, Body 4.315 x 2.605 mm'
+PRP Package_Reference 'SMA-2'
+PRP Packaging 'Digi-Reel®'
+PRP Power_-_Peak_Pulse '400W'
+PRP Power_Line_Protection 'No'
+PRP RoHS_Information 'SMAJSeriesMaterialDeclaration'
+PRP Series 'SMAJ'
+PRP Standard_Package '1'
+PRP Supplier_Device_Package 'SMA(DO-214AC)'
+PRP Type 'Zener'
+PRP Unidirectional_Channels '1'
+PRP Voltage_-_Breakdown_(Min) '6.4V'
+PRP Voltage_-_Clamping_(Max)_@_Ipp '9.2V'
+PRP Voltage_-_Reverse_Standoff_(Typ) '5V'
+TOP 0 49.5150013 45.50000044 90 N 133 109 1
+TOP 1 53.48500098 45.50000044 90 N 125 3 2
+#
+# CMP 81
+CMP 26 1.49999954 40.74999978 270 N CH16_V TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 1.49999954 40.74999978 270 N 92 1 1
+#
+# CMP 82
+CMP 26 1.49999954 39.25000024 270 N CH16_I TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 1.49999954 39.25000024 270 N 54 2 1
+#
+# CMP 83
+CMP 26 11.49999986 8.75000028 270 N CH15_V TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 11.49999986 8.75000028 270 N 94 1 1
+#
+# CMP 84
+CMP 26 11.49999986 7.25000074 270 N CH15_I TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 11.49999986 7.25000074 270 N 55 2 1
+#
+# CMP 85
+CMP 26 12.2500009 17.50000056 270 N CH14_V TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 12.2500009 17.50000056 270 N 96 1 1
+#
+# CMP 86
+CMP 26 12.2500009 16.00000102 270 N CH14_I TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 12.2500009 16.00000102 270 N 56 2 1
+#
+# CMP 87
+CMP 26 15.49999948 25.9999988 270 N CH13_V TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 15.49999948 25.9999988 270 N 98 1 1
+#
+# CMP 88
+CMP 26 15.49999948 24.49999926 270 N CH13_I TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 15.49999948 24.49999926 270 N 58 1 1
+#
+# CMP 89
+CMP 26 15.49999948 34.49999958 270 N CH12_V TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 15.49999948 34.49999958 270 N 101 1 1
+#
+# CMP 90
+CMP 26 15.49999948 33.00000004 270 N CH12_I TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 15.49999948 33.00000004 270 N 62 2 1
+#
+# CMP 91
+CMP 26 15.24999998 42.75000086 270 N CH11_V TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 15.24999998 42.75000086 270 N 103 2 1
+#
+# CMP 92
+CMP 26 15.24999998 41.24999878 270 N CH11_I TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 15.24999998 41.24999878 270 N 63 2 1
+#
+# CMP 93
+CMP 26 28.49999888 8.99999978 270 N CH10_V TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 28.49999888 8.99999978 270 N 105 3 1
+#
+# CMP 94
+CMP 26 28.49999888 7.50000024 270 N CH10_I TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 28.49999888 7.50000024 270 N 64 2 1
+#
+# CMP 95
+CMP 26 28.49999888 16.99999902 270 N CH9_V TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 28.49999888 16.99999902 270 N 107 3 1
+#
+# CMP 96
+CMP 26 28.49999888 15.49999948 270 N CH9_I TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 28.49999888 15.49999948 270 N 66 0 1
+#
+# CMP 97
+CMP 26 32.249999 25.9999988 270 N CH8_V TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 32.249999 25.9999988 270 N 110 3 1
+#
+# CMP 98
+CMP 26 32.249999 24.49999926 270 N CH8_I TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 32.249999 24.49999926 270 N 70 2 1
+#
+# CMP 99
+CMP 26 32.50000104 34.49999958 270 N CH7_V TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 32.50000104 34.49999958 270 N 112 2 1
+#
+# CMP 100
+CMP 26 32.50000104 33.00000004 270 N CH7_I TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 32.50000104 33.00000004 270 N 71 2 1
+#
+# CMP 101
+CMP 26 32.249999 42.75000086 270 N CH6_V TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 32.249999 42.75000086 270 N 114 3 1
+#
+# CMP 102
+CMP 26 32.249999 41.24999878 270 N CH6_I TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 32.249999 41.24999878 270 N 72 2 1
+#
+# CMP 103
+CMP 26 49.25000056 9.75000082 270 N CH5_V TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 49.25000056 9.75000082 270 N 116 1 1
+#
+# CMP 104
+CMP 26 49.25000056 8.24999874 270 N CH5_I TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 49.25000056 8.24999874 270 N 74 2 1
+#
+# CMP 105
+CMP 26 49.74999956 17.75000006 270 N CH4_V TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 49.74999956 17.75000006 270 N 119 1 1
+#
+# CMP 106
+CMP 26 49.74999956 16.25000052 270 N CH4_I TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 49.74999956 16.25000052 270 N 14 0 1
+#
+# CMP 107
+CMP 26 49.25000056 25.92500022 270 N CH3_V TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 49.25000056 25.92500022 270 N 121 0 1
+#
+# CMP 108
+CMP 26 49.25000056 24.49999926 270 N CH3_I TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 49.25000056 24.49999926 270 N 15 1 1
+#
+# CMP 109
+CMP 26 49.25000056 34.49999958 270 N CH2_V TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 49.25000056 34.49999958 270 N 123 1 1
+#
+# CMP 110
+CMP 26 49.25000056 33.00000004 270 N CH2_I TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 49.25000056 33.00000004 270 N 16 0 1
+#
+# CMP 111
+CMP 26 49.25000056 43.00000036 270 N CH1_V TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 49.25000056 43.00000036 270 N 125 0 1
+#
+# CMP 112
+CMP 26 49.25000056 41.50000082 270 N CH1_I TPAD6R ;0=1,1=0.6000,5=0
+PRP Case/Package ''
+PRP Component_Type 'Mechanical'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '1'
+PRP RoHS_Compliant ''
+TOP 0 49.25000056 41.50000082 270 N 81 2 1
+#
+# CMP 113
+CMP 4 7.3999979 38.0000002 0 N C40 VJ0603Y104MXJCW1BC ;0=1,1=0.9500,5=0
+PRP Manufacturer 'Vitramon'
+PRP Part_Number 'VJ0603Y104MXJCW1BC'
+TOP 0 8.04999914 38.0000002 270 N 54 0 1
+TOP 1 6.7499992 38.0000002 270 N 133 137 2
+#
+# CMP 114
+CMP 4 19.75000114 6.7499992 0 N C39 VJ0603Y104MXJCW1BC ;0=1,1=0.9500,5=0
+PRP Manufacturer 'Vitramon'
+PRP Part_Number 'VJ0603Y104MXJCW1BC'
+TOP 0 20.40000238 6.7499992 270 N 55 1 1
+TOP 1 19.10000244 6.7499992 270 N 133 207 2
+#
+# CMP 115
+CMP 4 21.00000118 15.20000008 0 N C38 VJ0603Y104MXJCW1BC ;0=1,1=0.9500,5=0
+PRP Manufacturer 'Vitramon'
+PRP Part_Number 'VJ0603Y104MXJCW1BC'
+TOP 0 21.65000242 15.20000008 270 N 56 1 1
+TOP 1 20.35000248 15.20000008 270 N 133 210 2
+#
+# CMP 116
+CMP 4 23.44999882 23.70000086 0 N C36 VJ0603Y104MXJCW1BC ;0=1,1=0.9500,5=0
+PRP Manufacturer 'Vitramon'
+PRP Part_Number 'VJ0603Y104MXJCW1BC'
+TOP 0 24.10000006 23.70000086 270 N 58 2 1
+TOP 1 22.80000012 23.70000086 270 N 133 167 2
+#
+# CMP 117
+CMP 4 24.49999926 32.249999 0 N C32 VJ0603Y104MXJCW1BC ;0=1,1=0.9500,5=0
+PRP Manufacturer 'Vitramon'
+PRP Part_Number 'VJ0603Y104MXJCW1BC'
+TOP 0 25.1500005 32.249999 270 N 62 0 1
+TOP 1 23.85000056 32.249999 270 N 133 184 2
+#
+# CMP 118
+CMP 4 24.74999876 40.50000028 0 N C31 VJ0603Y104MXJCW1BC ;0=1,1=0.9500,5=0
+PRP Manufacturer 'Vitramon'
+PRP Part_Number 'VJ0603Y104MXJCW1BC'
+TOP 0 25.4 40.50000028 270 N 63 0 1
+TOP 1 24.10000006 40.50000028 270 N 133 132 2
+#
+# CMP 119
+CMP 4 37.84999796 6.7499992 0 N C30 VJ0603Y104MXJCW1BC ;0=1,1=0.9500,5=0
+PRP Manufacturer 'Vitramon'
+PRP Part_Number 'VJ0603Y104MXJCW1BC'
+TOP 0 38.4999992 6.7499992 270 N 64 0 1
+TOP 1 37.19999926 6.7499992 270 N 133 89 2
+#
+# CMP 120
+CMP 4 37.7500007 15.24999998 0 N C28 VJ0603Y104MXJCW1BC ;0=1,1=0.9500,5=0
+PRP Manufacturer 'Vitramon'
+PRP Part_Number 'VJ0603Y104MXJCW1BC'
+TOP 0 38.40000194 15.24999998 270 N 66 1 1
+TOP 1 37.100002 15.24999998 270 N 133 112 2
+#
+# CMP 121
+CMP 4 40.74999978 23.75000076 0 N C24 VJ0603Y104MXJCW1BC ;0=1,1=0.9500,5=0
+PRP Manufacturer 'Vitramon'
+PRP Part_Number 'VJ0603Y104MXJCW1BC'
+TOP 0 41.40000102 23.75000076 270 N 70 0 1
+TOP 1 40.10000108 23.75000076 270 N 133 208 2
+#
+# CMP 122
+CMP 4 41.99999982 32.249999 0 N C23 VJ0603Y104MXJCW1BC ;0=1,1=0.9500,5=0
+PRP Manufacturer 'Vitramon'
+PRP Part_Number 'VJ0603Y104MXJCW1BC'
+TOP 0 42.65000106 32.249999 270 N 71 1 1
+TOP 1 41.35000112 32.249999 270 N 133 205 2
+#
+# CMP 123
+CMP 4 41.75000032 40.50000028 0 N C22 VJ0603Y104MXJCW1BC ;0=1,1=0.9500,5=0
+PRP Manufacturer 'Vitramon'
+PRP Part_Number 'VJ0603Y104MXJCW1BC'
+TOP 0 42.40000156 40.50000028 270 N 72 0 1
+TOP 1 41.10000162 40.50000028 270 N 133 107 2
+#
+# CMP 124
+CMP 4 57.7499988 7.99999924 0 N C20 VJ0603Y104MXJCW1BC ;0=1,1=0.9500,5=0
+PRP Manufacturer 'Vitramon'
+PRP Part_Number 'VJ0603Y104MXJCW1BC'
+TOP 0 58.40000004 7.99999924 270 N 74 1 1
+TOP 1 57.1000001 7.99999924 270 N 133 147 2
+#
+# CMP 125
+CMP 4 58.74999934 15.49999948 0 N C16 VJ0603Y104MXJCW1BC ;0=1,1=0.9500,5=0
+PRP Manufacturer 'Vitramon'
+PRP Part_Number 'VJ0603Y104MXJCW1BC'
+TOP 0 59.40000058 15.49999948 270 N 14 2 1
+TOP 1 58.10000064 15.49999948 270 N 133 135 2
+#
+# CMP 126
+CMP 4 58.74999934 23.75000076 0 N C15 VJ0603Y104MXJCW1BC ;0=1,1=0.9500,5=0
+PRP Manufacturer 'Vitramon'
+PRP Part_Number 'VJ0603Y104MXJCW1BC'
+TOP 0 59.40000058 23.75000076 270 N 15 2 1
+TOP 1 58.10000064 23.75000076 270 N 133 133 2
+#
+# CMP 127
+CMP 4 58.74999934 32.249999 0 N C14 VJ0603Y104MXJCW1BC ;0=1,1=0.9500,5=0
+PRP Manufacturer 'Vitramon'
+PRP Part_Number 'VJ0603Y104MXJCW1BC'
+TOP 0 59.40000058 32.249999 270 N 16 1 1
+TOP 1 58.10000064 32.249999 270 N 133 177 2
+#
+# CMP 128
+CMP 4 58.49999984 40.50000028 0 N C5 VJ0603Y104MXJCW1BC ;0=1,1=0.9500,5=0
+PRP Manufacturer 'Vitramon'
+PRP Part_Number 'VJ0603Y104MXJCW1BC'
+TOP 0 59.15000108 40.50000028 270 N 133 185 1
+TOP 1 57.85000114 40.50000028 270 N 81 0 2
+#
