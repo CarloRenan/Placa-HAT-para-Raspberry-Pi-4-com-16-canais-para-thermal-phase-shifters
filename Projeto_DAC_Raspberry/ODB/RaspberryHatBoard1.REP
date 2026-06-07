@@ -8,25 +8,23 @@ Generated File : C:\Users\Renan\Downloads\Dac\ODB\odb\steps\pcb\stephdr
 
 Generated File : C:\Users\Renan\Downloads\Dac\ODB\odb\steps\pcb\attrlist
 
-Generated File : C:\Users\Renan\Downloads\Dac\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
-
-Generated File : C:\Users\Renan\Downloads\Dac\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\attrlist
-
-Generated File : C:\Users\Renan\Downloads\Dac\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
-
 Generated File : C:\Users\Renan\Downloads\Dac\ODB\odb\steps\pcb\layers\dielectric_1\features
 
 Generated File : C:\Users\Renan\Downloads\Dac\ODB\odb\steps\pcb\layers\dielectric_1\attrlist
+
+Generated File : C:\Users\Renan\Downloads\Dac\ODB\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\Renan\Downloads\Dac\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\Renan\Downloads\Dac\ODB\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\Renan\Downloads\Dac\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
 
 Generated File : C:\Users\Renan\Downloads\Dac\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
 
 Generated File : C:\Users\Renan\Downloads\Dac\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\attrlist
 
 Generated File : C:\Users\Renan\Downloads\Dac\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
-
-Generated File : C:\Users\Renan\Downloads\Dac\ODB\odb\steps\pcb\layers\bottom_paste\features
-
-Generated File : C:\Users\Renan\Downloads\Dac\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
 
 Generated File : C:\Users\Renan\Downloads\Dac\ODB\odb\steps\pcb\layers\top_paste\features
 
@@ -35,10 +33,6 @@ Generated File : C:\Users\Renan\Downloads\Dac\ODB\odb\steps\pcb\layers\top_paste
 Generated File : C:\Users\Renan\Downloads\Dac\ODB\odb\steps\pcb\layers\top_solder\features
 
 Generated File : C:\Users\Renan\Downloads\Dac\ODB\odb\steps\pcb\layers\top_solder\attrlist
-
-Generated File : C:\Users\Renan\Downloads\Dac\ODB\odb\steps\pcb\layers\bottom_solder\features
-
-Generated File : C:\Users\Renan\Downloads\Dac\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
 
 Generated File : C:\Users\Renan\Downloads\Dac\ODB\odb\steps\pcb\layers\top_overlay\features
 
