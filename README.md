@@ -26,3 +26,4 @@ Localizado na pasta `/src`, o script Python (`photonic_controller.py`) estabelec
 * `/src`: Driver e interface de linha de comando em Python.
 
 
+<img width="800" height="1341" alt="1781027835008" src="https://github.com/user-attachments/assets/aa3b0e9b-0846-4c44-8ca5-f537e9b89617" />
