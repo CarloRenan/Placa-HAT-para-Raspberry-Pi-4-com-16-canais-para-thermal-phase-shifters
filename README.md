@@ -29,4 +29,5 @@ Localizado na pasta `/src`, o script Python (`photonic_controller.py`) estabelec
 **Carlos Renan** - Engenheiro Eletricista
 
 
-<img width="1479" height="1063" alt="file_000000006e3071f59bf54d570d1a40e5" src="https://github.com/user-attachments/assets/99997910-e4b5-454d-b5a5-fce11f07bba5" />
+<img width="1216" height="873" alt="1781029299632" src="https://github.com/user-attachments/assets/6939fe73-80a4-4442-b4bd-ae4658c0456b" />
+
