@@ -1,3 +1,599 @@
 *************************************************************
 FileName = RaspberryHatBoard1.GBR
 AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : RaspberryHatBoard1_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : RaspberryHatBoard1_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D35
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : RaspberryHatBoard1_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D35
+    D43
+    D44
+    D45
+    D46
+    D47
+    D50
+    D51
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : RaspberryHatBoard1_Pads_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D43
+    D44
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : RaspberryHatBoard1_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D56
+    D57
+    D58
+    D59
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : RaspberryHatBoard1_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D56
+    D57
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : RaspberryHatBoard1_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D27
+    D28
+    D29
+    D36
+    D37
+    D38
+    D43
+    D44
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : RaspberryHatBoard1_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D43
+    D44
+    D52
+    D53
+    D65
+    D73
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : RaspberryHatBoard1_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D82
+    D83
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : RaspberryHatBoard1_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D35
+    D50
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : RaspberryHatBoard1_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : RaspberryHatBoard1_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D56
+    D84
+    D85
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : RaspberryHatBoard1_Top_3D_Body.gbr
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : RaspberryHatBoard1_Top_Courtyard.gbr
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : RaspberryHatBoard1_Top_Designator.gbr
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : RaspberryHatBoard1_Top_Assembly.gbr
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : RaspberryHatBoard1_Top_Component_Outline.gbr
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Outline
+      File : RaspberryHatBoard1_Bottom_Component_Outline.gbr
+
+    Adding Layer      : Bottom Component Outline
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Route Tool Path
+      File : RaspberryHatBoard1_Route_Tool_Path.gbr
+
+    Adding Layer      : Route Tool Path
+
+
+Used DCodes :
+    D56
+    D86
+*************************************************************
+
+*************************************************************
+Generating : Docu
+      File : RaspberryHatBoard1_Docu.gbr
+
+    Adding Layer      : Docu
+
+
+Used DCodes :
+    D59
+    D87
+    D88
+*************************************************************
+
+*************************************************************
+Generating : Bottom Designator
+      File : RaspberryHatBoard1_Bottom_Designator.gbr
+
+    Adding Layer      : Bottom Designator
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : RaspberryHatBoard1_Mechanical_13.gbr
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D56
+    D89
+    D90
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : RaspberryHatBoard1_Mechanical_15.gbr
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : RaspberryHatBoard1_Top_Component_Center.gbr
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : RaspberryHatBoard1_Bottom_Assembly.gbr
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : RaspberryHatBoard1_Bottom_Courtyard.gbr
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : RaspberryHatBoard1_Bottom_3D_Body.gbr
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : RaspberryHatBoard1_Bottom_Component_Center.gbr
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 29
+      File : RaspberryHatBoard1_Mechanical_29.gbr
+
+    Adding Layer      : Mechanical 29
+
+
+Used DCodes :
+    D56
+    D91
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : RaspberryHatBoard1_Profile.gbr
+
+
+Used DCodes :
+    D92
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : RaspberryHatBoard1_NPTH_Drill.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : RaspberryHatBoard1_PTH_Drill.gbr
+
+
+Used DCodes :
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : RaspberryHatBoard1_Drawing_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D84
+    D103
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : RaspberryHatBoard1_Drillmap_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D84
+*************************************************************
+
